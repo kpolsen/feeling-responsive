@@ -31,9 +31,10 @@ widget3:
 #
 # To style the button in different colors, use no value
 # to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
+# To change colors see sass 01_settings_colors.scss
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
+
 homepage: true
 ---
