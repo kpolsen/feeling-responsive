@@ -5,7 +5,7 @@ title: "Astronomy projects"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "VLA.jpg"
 permalink: "/research/astro/"
 ---
 
