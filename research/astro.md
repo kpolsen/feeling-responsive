@@ -20,7 +20,7 @@ My main research project at ASU has been SÍGAME - a module designed to model ne
 far-infrared from galaxies and make predictions for future observations. 
 Here's an example of a flux map in [CII] fine structure line at 158 micron of a model galaxy:
 
-![Simulated[CII] emission from a model galaxy](sigame1.png)
+![Synthetic emission map of a model galaxy](sigame1.png)
 
 I started developing SÍGAME during my PhD at the Dark Cosmology Centre, a Center of Excellence in Denmark. 
 Over the years, it grew into a mature software tool, rewritten in python and applicable to many cases of 
