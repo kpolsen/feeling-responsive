@@ -13,7 +13,7 @@ My most recent work in astronomy I carried out as a post-doctoral researcher at 
 at Arizona State University (ASU). 
 There I carried out independent research on galaxies far away from our own Milky Way. 
 My mentors were [Sangeeta Malhotra](https://asu.pure.elsevier.com/en/persons/sangeeta-malhotra) and [Rogier Windhorst](http://sese-archive.asu.edu/people/rogier-windhorst). 
-See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions.
+See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions for me.
 
 
 
