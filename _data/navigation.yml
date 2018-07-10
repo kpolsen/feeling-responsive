@@ -22,9 +22,6 @@
   side: left
 
 
-- title: Blog
-  url: "other/"
+- title: "Blog"
+  url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog"
-    url: "other/blog/"
