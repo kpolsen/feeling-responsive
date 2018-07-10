@@ -33,7 +33,7 @@ and the software tool is now available for download via GitHub.
 At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence 
 of AGN in massive galaxies at z~2 using CHANDRA archival data
 
-<center><img src="ism.jpg" width="600"></center><br>
+![The interstellar medium (ISM)](ism.jpg)
 
 <h2 style="color: #006699">Research interests in astronomy</h2>
 Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
