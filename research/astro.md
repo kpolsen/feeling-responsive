@@ -27,13 +27,13 @@ galaxy studies.
 I have led three first-author publications on SÍGAME and enjoyed working with team members from around the world, 
 and the software tool is now available for download via GitHub. 
 
-<a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Learn more about and download SÍGAME here here›</a>
+<a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Learn more about and download SÍGAME here›</a>
 
 
-At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence of AGN in 
-massive galaxies at z~2 using CHANDRA archival data:
-<a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1212.1158">Measuring the AGN fraction among star-forming and quiescent galaxies at z~2 (ApJ 764 4, 2013)</a>
+At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence 
+of AGN in massive galaxies at z~2 using CHANDRA archival data
 
+<center><img src="ism.jpg" width="600"></center><br>
 
 <h2 style="color: #006699">Research interests in astronomy</h2>
 Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
@@ -50,3 +50,13 @@ and astronomers can extract important information from each:<br><br>
 The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
 where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
 typical ISM temperatures and densities. <br><br>
+
+<h2 style="color: #006699">Publications</h2>
+
+2017: <a href="http://adsabs.harvard.edu/abs/2017ApJ...846..105O">SÍGAME Simulations of the [CII], [OI], and [OIII] Line Emission from Star-forming Galaxies at z ~ 6 (ApJ 846 2, 2017)</a>
+
+2016: <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1507.00012">SImulator of GAlaxy Millimetre/submillimetre Emission (SÍGAME): CO emission from massive z = 2 main-sequence galaxies (MNRAS 457 3, 2016)</a>
+
+2015: <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1507.00362">Simulator of Galaxy Millimeter/Submillimeter Emission (SíGAME): The [CII]-SFR Relationship of Massive z = 2 Main Sequence Galaxies (ApJ 814 1, 2015)</a>
+
+2013: <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1212.1158">Measuring the AGN fraction among star-forming and quiescent galaxies at z~2 (ApJ 764 4, 2013)</a>
