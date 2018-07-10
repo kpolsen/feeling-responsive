@@ -9,7 +9,6 @@ header:
    image_fullwidth: "Karens_3wishes.jpg"
 ---
 
-<h2 style="color: #006699">Contact details:</h2>
 
 > Karen Pardos Olsen<br>
 > pardos (at) elektro.dtu.dk<br>

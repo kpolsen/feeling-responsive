@@ -13,15 +13,15 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Talks and presentations from different events.'
 widget2:
-  title: "Travels"
+  title: "Volunteer work"
   url: 'https://kpolsen.github.io/travel/'
   image: widget-1-302x182.jpg
-  text: 'Check out places I have been!'
+  text: 'Projects I have worked/work on and the people I meet there.'
 widget3:
   title: "Blog"
   url: 'https://kpolsen.github.io/blog/'
   image: widget-1-302x182.jpg
-  text: 'My latest adventures and discoveries.'
+  text: 'Random adventures and discoveries.'
 #
 # Use the call for action to show a button on the frontpage
 #
