@@ -16,11 +16,12 @@ My mentors were [Sangeeta Malhotra](https://asu.pure.elsevier.com/en/persons/san
 See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions for me.
 
 
+My main research project at ASU has been SÍGAME - a module designed to model nebular line emission in the 
+far-infrared from galaxies and make predictions for future observations. 
+Here's an example of a flux map in [CII] fine structure line at 158 micron of a model galaxy:
 
+![Simulated[CII] emission from a model galaxy](sigame1.png)
 
-My main research project at ASU is SÍGAME - a module designed to model nebular line emission in the 
-far-infrared from galaxies and make predictions 
-for future observations. 
 I started developing SÍGAME during my PhD at the Dark Cosmology Centre, a Center of Excellence in Denmark. 
 Over the years, it grew into a mature software tool, rewritten in python and applicable to many cases of 
 galaxy studies. 
@@ -31,9 +32,20 @@ and the software tool is now available for download via GitHub.
 
 
 At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence 
-of AGN in massive galaxies at z~2 using CHANDRA archival data
+of active galactic nuclei (AGN) in massive galaxies at redshifts around 2 (about 10 billion years ago!) 
+using [CHANDRA]() archival X-ray data. 
+High luminosity AGN are easily detected in X-ray at these redshifts, but to count the low luminosity AGN, 
+it is necessary to apply some sort of stacking technique:
 
-![The interstellar medium (ISM)](ism.jpg)
+![Stacking of X-ray images of AGN](agn.png)
+
+As an additional criteria when selecting AGN, the spectral shape of the X-ray emission can be used:
+
+![Classification scheme to identify AGN](agn1.png)
+
+We find in the paper that the low-luminosity AGN population constitutes a significant part of both the 
+star-forming and the "quenched" galaxies at redshifts around 2. 
+See my 2013 paper below for more details on the technique and results.
 
 <h2 style="color: #006699">Research interests in astronomy</h2>
 Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
@@ -45,7 +57,7 @@ high redshifts both are poorly determined by observations.
 By observing a portion of ISM in different wavelengths, different images emerge, 
 and astronomers can extract important information from each:<br><br>
 
-<center><img src="ism.jpg" width="600"></center><br>
+![The interstellar medium (ISM)](ism.jpg)
 
 The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
 where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
