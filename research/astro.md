@@ -16,5 +16,37 @@ My mentors were [Sangeeta Malhotra](https://asu.pure.elsevier.com/en/persons/san
 See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions.
 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
+
+My main research project at ASU is SÍGAME - a module designed to model nebular line emission in the 
+far-infrared from galaxies and make predictions 
+for future observations. 
+I started developing SÍGAME during my PhD at the Dark Cosmology Centre, a Center of Excellence in Denmark. 
+Over the years, it grew into a mature software tool, rewritten in python and applicable to many cases of 
+galaxy studies. 
+I have led three first-author publications on SÍGAME and enjoyed working with team members from around the world, 
+and the software tool is now available for download via GitHub. 
+
+<a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Learn more about and download SÍGAME here here›</a>
+
+
+At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence of AGN in 
+massive galaxies at z~2 using CHANDRA archival data:
+<a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1212.1158">Measuring the AGN fraction among star-forming and quiescent galaxies at z~2 (ApJ 764 4, 2013)</a>
+
+
+<h2 style="color: #006699">Research interests in astronomy</h2>
+Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
+Emission lines in radio; Radio interferometry; Galaxy simulations</i> <br>
+
+My research focuses on the Interstellar Medium (ISM) of galaxies, i.e. that gas out of which stars are formed. 
+The amount and properties of the ISM play a crucial role for the evolution of a galaxy, yet for galaxies at 
+high redshifts both are poorly determined by observations. 
+By observing a portion of ISM in different wavelengths, different images emerge, 
+and astronomers can extract important information from each:<br><br>
+
+<center><img src="ism.jpg" width="600"></center><br>
+
+The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
+where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
+typical ISM temperatures and densities. <br><br>
