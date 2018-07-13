@@ -10,5 +10,5 @@ permalink: "/resume/"
 ---
 
 
-<a class="radius button small" href="resume_Karen_Olsen.pdf">View and download a recent version of my CV here.›</a>
+<a class="radius button small" href="resume_Karen_Olsen.pdf">View and download a recent version of my resume here.›</a>
 
