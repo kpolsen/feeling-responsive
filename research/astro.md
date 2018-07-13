@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Astronomy projects"
+title: "Projects in Astronomy"
 subheadline: ""
 teaser: ""
 header:
@@ -39,7 +39,12 @@ it is necessary to apply some sort of stacking technique:
 
 ![Stacking of X-ray images of AGN](agn.png)
 
-As an additional criteria when selecting AGN, the spectral shape of the X-ray emission can be used:
+As an additional criteria when selecting AGN, the spectral shape of the X-ray emission can be used. 
+For quantifying the slope of the X-ray spectra, astronomers typically use the observed "hardness ratio" between 
+soft and hard X-ray flux. In the following figure from our paper, X-ray luminosity (on the y-axis) and 
+hardness ratio (on the x-axis) are used to identify luminous AGN (filled symbols) and 
+potential low-luminosity AGN (open symbols). Stacks of non-detections are shown with squares 
+and blue and red colors signify star-forming and "quenched" galaxies, respectively:
 
 ![Classification scheme to identify AGN](agn1.png)
 
