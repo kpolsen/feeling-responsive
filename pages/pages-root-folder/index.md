@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Outreach"
   url: 'http://kpolsen.github.io/outreach/'
-  image: widget-1-302x182.jpg
+  image: outreach_3884_2800.jpg
   text: 'Talks and presentations from different events.'
 widget2:
   title: "Volunteer work"
   url: 'https://kpolsen.github.io/travel/'
-  image: widget-1-302x182.jpg
+  image: volun_3884_2800.jpg
   text: 'Projects I have worked/work on and the people I meet there.'
 widget3:
   title: "Blog"
   url: 'https://kpolsen.github.io/blog/'
-  image: widget-1-302x182.jpg
+  image: blog_3884_2800.jpg
   text: 'Random adventures and discoveries.'
 #
 # Use the call for action to show a button on the frontpage
