@@ -9,22 +9,39 @@ header:
 permalink: "/outreach/"
 ---
 
+## Organizer of Python meetings
+At ASU, I organized group meetings for scientists using python in their research at ASU. 
+Meetings are every second week and we have a github repository to share knowledge and ask questions. 
+We decided a topic for each meeting based on where people are having most struggles! 
+I passed the organization of these meetings onto Joe Chen at the Physics Department of ASU, 
+so if you would like to join the mailing list or be part of the github repository, 
+please send him an email. 
+Typically, the meetings start with a short presentation by someone who has experience in 
+the topic followed by discussion and hands-on learning. 
+The group includes undergrads to professors, and is not restricted to SESE members. 
+so if you would like to join the mailing list or be part of the github repository, 
+just shoot Joe (or me) an email. 
+Check out our group page by clicking below:
 
-
-<a class="radius button small" href="{{ site.url }}/research/astro/">Read about my projects in astronomy›</a>
-
-<a class="radius button small" href="{{ site.url }}/research/renew/">Read about my projects in renewable energy›</a>
-
+<a class="radius button small" href="https://prickly-pythons.github.io/">Go to the Prickly Pythons website›</a>
 
 <br>
 <br>
+
+## Co-organizer of P^3 = Postdoc Posters and Pie Research Forum at SESE in 2016 and 2017, ASU
+
+I helped organizing annual poster conferences at SESE, ASU, for postdocs and others to see 
+some of the amazing science that goes on at SESE! Below is a photo taken from a balcony above the scene:
+
+<center>
+  <img src="presentations/p31.jpg" style="margin: 0%; width: 40%; " /></a>
+  <img src="presentations/p32.jpg" style="margin: 4%; width: 40%; " /></a>
+</center> 
+
+## Talks, meetings and interviews
 
 Below are previous talks that I gave, and meetings I attended or plan to attend. 
 If you want the keynote/powerpoint version of any presentation (given in PDF here) please contact me!
-
-
-<br>
-<br>
 
 ___
 
