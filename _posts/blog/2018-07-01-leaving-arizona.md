@@ -8,23 +8,23 @@ categories:
 tags:
     - post format
 image:
-   thumb: "blog/2018-07-14/gallery-example-1-thumb.jpg"
+   thumb: "blog/life/gallery-example-1-thumb.jpg"
 gallery:
-    - image_url: blog/2018-07-14/gallery-example-1.jpg
+    - image_url: blog/life/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-2.jpg
+    - image_url: blog/life/gallery-example-2.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-3.jpg
+    - image_url: blog/life/gallery-example-3.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-4.jpg
+    - image_url: blog/life/gallery-example-4.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-5.jpg
+    - image_url: blog/life/gallery-example-5.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-6.jpg
+    - image_url: blog/life/gallery-example-6.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-7.jpg
+    - image_url: blog/life/gallery-example-7.jpg
       caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-14/gallery-example-8.jpg
+    - image_url: blog/life/gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
 <!--You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
