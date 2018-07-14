@@ -46,6 +46,7 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 ___
 
 ## 2018
+<br>
 
 
 <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
@@ -53,38 +54,30 @@ I gave a talk at my department, summarizing my recent work with <a href="https:/
 research projects. Title: 'Making Sense of FIR Line Emission with Synthetic Observations'. 
 <a href="presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
-
 <br>
-<br>
-
 
 <b style="color: #006699">03-14-18 to 03-16-18: Walking the Line 2018</b><br>
 I organized a workshop at Arizona State University, centered on the challenge of modeling line emission in galaxies near and far. This workshop brought together experts as well as students in the field for 3 days of talks and focused discussion sessions.<br> 
  <a href="https://walk2018.weebly.com/"><font color="#660033">See website with full program and list of participants.</font></a><br>
  <a href="https://zenodo.org/communities/walk2018/"><font color="#660033">See this community site at zenodo.org for slides and recordings of talks.</font></a>
 
-
-<br>
 <br>
 
 <b style="color: #006699">01-13-18: Conferences for Undergraduate Women in Physics (CUWiP)</b><br>
 I participated as invited speaker to the breakout session about "Hot Topics in Physics".<br> 
  <a href="">http://www.aps.org/programs/women/workshops/cuwip.cfm<font color="#660033">See the program here.</font></a> and download my <a href="presentations/CUWiP/hot_topic_2018.pdf"><font color="#660033">presentation slides in PDF format here</font></a>.
 
-
-<br>
 <br>
 
 ___
 
 ## 2017
+<br>
 
 <b style="color: #006699">08-15-17: Webinar in the FIR SIG group</b><br>
 I gave a webinar to the Far-Infrared Science Interest Group (FIR SIG) and you can 
  <a href="https://www.cfa.harvard.edu/~mmacgreg/FIR_SIG/seminars.html"><font color="#660033">watch it here</font></a>.
 
-
-<br>
 <br>
 
 <b style="color: #006699">06-29-17: Colloquium at IRyA, UNAM, Morelia, Mexico</b><br>
@@ -92,10 +85,7 @@ While visiting the "Instituto de Radioastronomía y Astrofísica", I gave a 50mi
 forming a paper submitted to ApJ.
 <a href="presentations/[CII]_at_z_6_UNAM.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
-
 <br>
-<br>
-
 
 <b style="color: #006699">04-28-17: Cosmology Seminar (aka Pizza Talk), Tempe, Arizona</b><br>
 I gave a 45min talk at my institute (SESE, ASU) 
@@ -103,8 +93,6 @@ on results with SÍGAME for modeling [CII] emission at redshift 6, now
 forming a paper close to submission.
 <a href="presentations/[CII]_at_z_6_SESE.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
-
-<br>
 <br>
 
 <b style="color: #006699">01-14-17 to 01-18-17: Dawn of Galaxies 2017 meeting, Obergurgl, Austria</b><br>
@@ -113,10 +101,10 @@ I'm attending a meeting on galaxy evolution during the Epoch of Reionization.
 
 
 <br>
-<br>
 ___
 
 ## 2016
+<br>
 
 <b style="color: #006699">11-14-16 to 11-18-16: Visitor at NMSU, Las Cruces, NM</b><br>
 I came to collaborate with professor Kristian Finlator primarily, and gave a colloquium on Friday Nov 18 
@@ -124,15 +112,10 @@ on early results with SÍGAME for modeling [CII] emission at redshift 6.
 <a href="presentations/[CII]_at_z_6_NMSU.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
-<br>
-<br>
-
 
 <b style="color: #006699">06-12-16: American Astronomical Society 228th meeting, San Diego, CA</b><br>
 Attending with poster.
 
-<br>
-<br>
 <br>
 
 <b style="color: #006699">05-10-16: Participating in SOFIA workshop, Tucson, AZ</b><br>
@@ -141,20 +124,21 @@ A hands-on workshop on what you can do with (and how to write proposals for)
 which is an amazing airborne observatory. 
 
 <br>
-<br>
 
 <b style="color: #006699">04-22-16: Gave an interview for ASU connections</b><br>
 On my work and daily life as a postdoc at SESE! I had a great time talking to the host, 
 Kevin Conklin and you can listen to the podcast here: 
 
+
+![](presentations/Olsen_Conklin_2016.mp3)
+
+<!-- 
 <audio controls>
-  <!-- <source src="horse.ogg" type="audio/ogg"> -->
   <source src="presentations/Olsen_Conklin_2016.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-<!-- <a href="presentations/Olsen_Conklin_2016.mp3"><font color="#660033">Download mp3 file</font></a>. -->
+ -->
 
-<br>
 <br>
 
 <b style="color: #006699">04-04-16: Molecular GAs in Galactic Environments, Charlottesville, VA</b><br>
@@ -164,16 +148,15 @@ And download the keynote presentation of my talk from the Open Science Framework
 <a href="https://www.sofia.usra.edu/"><font color="#660033">https://osf.io/9mzkd/</font></a>
 
 <br>
-<br>
 ___
 
 ## 2015
+<br>
 
 <b style="color: #006699">12-02-15: Talk at NRAO, Socorro, NM</b><br>
 Simulating [CII] emission: Results for z=2 main sequence galaxies<br>
 <a href="presentations/2015-12-02.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
-<br>
 <br>
 
 <b style="color: #006699">11-10-15: Practice Talk Session at SESE, ASU in Tempe, AZ</b><br>
@@ -181,13 +164,11 @@ First session: Key aspects of a good talk (prepared and presented in collaborati
 <a href="presentations/2015-11-10.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
-<br>
 
 <b style="color: #006699">09-18-15: Cosmology Seminar at SESE, ASU in Tempe, AZ</b><br>
 ISM: Modeling and observing<br>
 <a href="presentations/2015-09-18.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
-<br>
 <br>
 
 <b style="color: #006699">11-07-15: KISS meeting, Pasadena, CA</b><br>
