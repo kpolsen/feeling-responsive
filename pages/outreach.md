@@ -130,8 +130,11 @@ On my work and daily life as a postdoc at SESE! I had a great time talking to th
 Kevin Conklin and you can listen to the podcast here: 
 
 
-![](presentations/Olsen_Conklin_2016.mp3)
-
+<audio controls="controls">
+  <source type="audio/mp3" src="presentations/Olsen_Conklin_2016.mp3"></source>
+  <!-- <source type="audio/ogg" src="filename.ogg"></source> -->
+  <p>Your browser does not support the audio element.</p>
+</audio>
 <!-- 
 <audio controls>
   <source src="presentations/Olsen_Conklin_2016.mp3" type="audio/mpeg">
