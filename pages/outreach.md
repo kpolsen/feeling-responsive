@@ -26,15 +26,14 @@ Check out our group page by clicking below:
 <a class="radius button small" href="https://prickly-pythons.github.io/">Go to the Prickly Pythons website›</a>
 
 <br>
-<br>
 
-## Co-organizer of P^3 = Postdoc Posters and Pie Research Forum at SESE in 2016 and 2017, ASU
+### Co-organizer of P^3 = Postdoc Posters and Pie Research Forum at SESE in 2016 and 2017, ASU
 
 I helped organizing annual poster conferences at SESE, ASU, for postdocs and others to see 
 some of the amazing science that goes on at SESE! Below are a couple of photos taken at the scene:
 
-![From above the scene](presentations/p31.jpg)
-![Me explaining my research](presentations/p32.jpg)
+![From above the scene](presentations/p31.jpg =100)
+![Me explaining my research](presentations/p32.jpg =100)
 
 
 <<!-- center>
