@@ -15,11 +15,9 @@
   url: "/resume/"
   side: left
 
-
 - title: "Contact"
   url: "/contact/"
   side: left
-
 
 - title: "Blog"
   url: "/blog/"
