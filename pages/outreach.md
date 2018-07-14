@@ -33,6 +33,7 @@ I helped organizing annual poster conferences at SESE, ASU, for postdocs and oth
 some of the amazing science that goes on at SESE! Below are a couple of photos taken at the scene:
 
 <img src="{{ site.url }}/pages/presentations/p31.jpg" alt="From above the scene">
+<br>
 <img src="{{ site.url }}/pages/presentations/p32.jpg" alt="Me explaining my research">
 
 ## Talks, meetings and interviews
