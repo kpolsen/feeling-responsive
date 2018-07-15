@@ -32,10 +32,10 @@ Check out our group page by clicking below:
 I helped organizing annual poster conferences at SESE, ASU, for postdocs and others to see 
 some of the amazing science that goes on at SESE! Below are a couple of photos taken at the scene:
 
-<img src="{{ site.url }}/pages/presentations/p31.jpg" alt="From above the scene" width="50">
+<img src="{{ site.url }}/pages/presentations/p31.jpg" alt="From above the scene" width="300">
+
 <br>
-<br>
-<img src="{{ site.url }}/pages/presentations/p32.jpg" alt="Me explaining my research">
+<img src="{{ site.url }}/pages/presentations/p32.jpg" alt="Me explaining my research" width="300">
 
 ## Talks, meetings and interviews
 
