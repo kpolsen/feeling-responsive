@@ -5,7 +5,7 @@ title: "Adventures with Karen"
 subheadline: "blogging"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/blog/"
+permalink: "/more/blog/"
 ---
 <ul>
     {% for post in site.categories.blog %}
