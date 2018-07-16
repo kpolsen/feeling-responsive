@@ -10,7 +10,7 @@ permalink: "/outreach/"
 ---
 
 ## Organizer of Python meetings
-At ASU, I organized group meetings for scientists using python in their research at ASU. 
+At Arizona State University (ASU) I organized group meetings for scientists using python in their research at ASU. 
 Meetings are every second week and we have a github repository to share knowledge and ask questions. 
 We decided a topic for each meeting based on where people are having most struggles! 
 I passed the organization of these meetings onto Joe Chen at the Physics Department of ASU, 
@@ -18,7 +18,8 @@ so if you would like to join the mailing list or be part of the github repositor
 please send him an email. 
 Typically, the meetings start with a short presentation by someone who has experience in 
 the topic followed by discussion and hands-on learning. 
-The group includes undergrads to professors, and is not restricted to SESE members. 
+The group includes undergrads to professors, and is not restricted to members of the 
+School of Earth and Space Exploration (SESE). 
 so if you would like to join the mailing list or be part of the github repository, 
 just shoot Joe (or me) an email. 
 Check out our group page by clicking below:
@@ -127,12 +128,12 @@ which is an amazing airborne observatory.
 <b style="color: #006699">04-22-16: Gave an interview for ASU connections</b><br>
 On my work and daily life as a postdoc at SESE! I had a great time talking to the host, 
 Kevin Conklin and you can listen to the podcast here: 
-
+<br>
 
 <audio controls="controls">
   <source type="audio/mp3" src="{{ site.url }}/pages/presentations/Olsen_Conklin_2016.mp3"></source>
   <!-- <source type="audio/ogg" src="filename.ogg"></source> -->
-  <p>Your browser does not support the audio element.</p>
+  <!-- <p>Your browser does not support the audio element.</p> -->
 </audio>
 <!-- 
 <audio controls>
