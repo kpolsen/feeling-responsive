@@ -19,7 +19,7 @@ widget2:
   text: 'Projects I have worked/work on and the people I meet there.'
 widget3:
   title: "Blog"
-  url: 'https://kpolsen.github.io/blog/'
+  url: 'https://kpolsen.github.io/more/blog/'
   image: blog_3884_2800.jpg
   text: 'Random adventures and discoveries.'
 #
