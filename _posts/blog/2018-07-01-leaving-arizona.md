@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Life"
 title:  "Leaving Arizona after three years"
-teaser: "My last days in Arizona as I said goodbye to friends and prepared my move back to Denmark. </a>."
+teaser: "My last days in Arizona as I said goodbye to friends and prepared my move back to Denmark."
 categories:
     - blog
 tags:
