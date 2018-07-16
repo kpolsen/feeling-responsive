@@ -70,7 +70,7 @@ gallery:
 ### Step 3
 
 Add the include whereever you want in your content with `{% raw %}{% include gallery %}{% endraw %}`.
--->
+
 {% include alert info='Have a look at this example-entry. And have a look into the images-folder. :)' %}
 
 
@@ -85,3 +85,4 @@ Add the include whereever you want in your content with `{% raw %}{% include gal
  [2]: http://foundation.zurb.com/docs/components/block_grid.html
  [3]: {{ site.url }}{{ site.baseurl }}/design/page/
  [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
+-->
