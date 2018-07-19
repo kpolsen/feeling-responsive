@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Recipes"
-teaser: "My favorite recipes."
+teaser: "My favorite recipes - all vegetarian, though some might contain fish (I'm pescatarian)."
 header:
     image_fullwidth: "header-bus.jpg"
 ---
