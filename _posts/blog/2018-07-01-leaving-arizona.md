@@ -16,7 +16,7 @@ gallery:
     - image_url: blog/2018-07-01/brunch.png
       caption: Brunch with roommates, who made eggs Benedict because I never had them <3
     - image_url: blog/2018-07-01/me.jpg
-      caption: Me hanging around in my rope at the "Hasta La Vista" party.
+      caption: Me hanging around in my rope at the 'Hasta La Vista' party.
     - image_url: blog/2018-07-01/dzintra.png
       caption: My circus-friend Dzintra making a vainag (Latvian tradition) at the party.
     - image_url: blog/2018-07-01/luis.png
