@@ -3,41 +3,60 @@ layout: page
 subheadline:  "Life"
 title:  "Leaving Arizona after three years"
 teaser: "My last days in Arizona as I said goodbye to friends and prepared my move back to Denmark."
+header:
+    image_fullwidth: "texture1.png"
+image:
+   thumb: "blog/2018-07-01/AZ_thumb.jpg"
 categories:
     - blog
 tags:
     - post format
-image:
-   thumb: "blog/2018-07-01/gallery-example-1-thumb.jpg"
+comments: true
 gallery:
-    - image_url: blog/2018-07-01/gallery-example-1.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-2.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-3.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-4.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-5.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-6.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-7.jpg
-      caption: Great images by Unsplash.com
-    - image_url: blog/2018-07-01/gallery-example-8.jpg
-      caption: Great images by Unsplash.com
+    - image_url: blog/2018-07-01/brunch.png
+      caption: Brunch with roommates, who made eggs Benedict because I never had them <3
+    - image_url: blog/2018-07-01/me.jpg
+      caption: Me hanging around in my rope at the "Hasta La Vista" party.
+    - image_url: blog/2018-07-01/dzintra.png
+      caption: My circus-friend Dzintra making a vainag (Latvian tradition) at the party.
+    - image_url: blog/2018-07-01/luis.png
+      caption: Luis, forced to wear a vainag.
+    - image_url: blog/2018-07-01/invite.png
+      caption: The hand-written invite for my party.
+    - image_url: blog/2018-07-01/work.png
+      caption: A fancy lunch with astronomers. They gave me a flag and nice books to read in the air.
+    - image_url: blog/2018-07-01/kingman1.jpg
+      caption: Visiting my friend Nick, who lived outside Kingman at the time, in these amazing tents.
+    - image_url: blog/2018-07-01/wildcat.jpg
+      caption: A mixed house/wild-cat sneaking around the grape vines on the porch at Nick's place.
 ---
 
-I'm still working on this post - stay tuned!
+Arizona feels like home to me and always will. Being there for three years, 
+I became friends with the most wonderful people. 
+From the people I met at work to those I met in an airport, from 
+the the people I lived with to the ones I did aerial acrobatics with.
 
+How to say goodbye to them all? 
 
-<!--You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
+Well, I didn't.
+
+Instead, I had a "Hasta La Vista" party with the certainty that I will always 
+return one way or another. 
+I also went to visit a friend who was currently living outside Kingman, 
+in a going off-the-grid community. 
+These last days before my return to Denmark, turned into 
+a truly magic time for me that I will always cherish! 
+
+Below are some photos to give you an idea.
+
 
 
 {% include gallery %}
 
-
+<!--
 ## How to embed a gallery
+
+You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
 
 `{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
 
