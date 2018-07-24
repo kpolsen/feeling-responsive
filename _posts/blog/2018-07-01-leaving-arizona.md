@@ -42,6 +42,13 @@ Well, I didn't.
 
 Instead, I had a "Hasta La Vista" party with the certainty that I will always 
 return one way or another. 
+The party was held in a beautiful and very original Adobe house in Laveen, 
+a rural outskirt of Phoenix, 
+where my friend Michael and his wife Shannon 
+lives with a few horses and two dogs. 
+We had a fire, did aerial acrobatics out in the open and 
+I organized a raffle for one of my Bob Ross paintings :)
+
 I also went to visit a friend who was currently living outside Kingman, 
 in a going off-the-grid community. 
 These last days before my return to Denmark, turned into 
