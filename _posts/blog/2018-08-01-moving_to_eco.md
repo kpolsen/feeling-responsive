@@ -21,7 +21,7 @@ gallery:
       caption: 
     - image_url: blog/2018-08-01/toilet.jpg
       caption: 
-    - image_url: blog/2018-08-01/fromage.jpg
+    - image_url: blog/2018-08-01/fromage.JPG
       caption: 
     - image_url: blog/2018-08-01/buddha.JPG
       caption: 
@@ -33,8 +33,64 @@ gallery:
       caption: 
 ---
 
+Although humans are said to be social animals, many people chose to live alone. 
+It's a choice that becomes easier if there's no partner involved (or that person lives in 
+another continent!). 
+I lived alone for 4 years in a small studio apartment inside Copenhagen, 
+which was immensely convenient while writing my PhD and having a long-distance 
+relationship for most of that time. 
+However, after those 4 years I decided that, at least 
+for the time being, I need companions in the house, regardless of where my boyfriend lives. 
+
+Interestingly, I've always had strange, but good luck in finding roommates. 
+In Arizona, I lived in a shared house with 4-5 wonderful roommates and a large garden. 
+Now in Denmark, I had only been searching online for a couple of weeks, when I came in 
+contact with my current landlady, Anette Warming. 
+We quickly found out that we have the same drive and energy to start many projects 
+and not let fear or doubt hold us back, for better and for worse! 
+For Anette, it meant quitting a job in IT and starting her own company built 
+around the ideas of sustainability and human connection. 
+For me, it meant putting my career in astronomy on hold while I try research in the field of 
+renewable energy and make a difficult move from a place I had begun to love. 
+You can about the company that Anette created here: https://bevar.dk/anette-warming/, 
+and also see some of her products below made of used/rejected jeans. 
+
+After a few emails and some pictures of the house, 
+it was decided that I could move in on July 1st together with a french girl studying at 
+[Roskilde University](https://ruc.dk/en). 
+I have a really good feeling about living with these women, but that is not where my luck ends!! 
+We also live in the biggest ecologic co-housing place in Denmark! 
+It's called Munksøgård.
 
 
+<h2 style="color: #006699">About Munksøgård</h2>
+About 25 km west of Copenhagen, the capital of Denmark, Munksøgård is a collection of row houses built around an 
+old farm in the outskirts of Roskilde city. 
+This small "village" contains about 75 children og 160 adults distributed in 5 "units": 
+- Youth, typically for students.<br>
+- Family, for couples with children. Typically they rent their home.
+- Owners, who actually bought their house.
+- Cooperative owners, who own a share of the real estate.
+- Senior, typically for retired people.
+I live in the Family unit since the children of Anette recently moved out and she is able to rent two rooms in her house. 
+Each unit has a common house with an industrial kitchen where residents organize and have dinners together, 
+at least 2-3 times a week. 
+
+The village, which stood finished in 2000, is part of the association for Sustainable Cities and Buildings 
+([FBBB](http://www.xn--bredygtigebygninger-lxb.dk/projekter/energiforsyning/munkesoegaard/)). 
+Heating takes place via water boilers, heated via solar panels and wood pellet burners. 
+Building materials have been carefully chosen to lessen the environmental impact, from isolation to paint, 
+and rain water is collected and used for gardening and laundry. 
+Surrounding the buildings are vast areas of land used for farming and animals. In particular, 
+we've got plenty of apple trees as well as goats, sheep and chicken. 
+There's a village shop, which sells ecologic and mostly local goods, including crops and meat produced within Munksøgård.
+
+So far, I'm absolutely in love with the architecture which stimulates social activities. 
+Also, since I'm just renting a room and not a house, I'm not obliged to participate in any of the 
+working groups here (for e.g. drainage, shop, internet etc.), but I'm very fond of goats, so I help out with the 
+animals almost every evening. 
+
+You can read more about the village at [this website](http://xn--munksgrd-f0a2q.dk/index_en.html).
 
 
 {% include gallery %}
