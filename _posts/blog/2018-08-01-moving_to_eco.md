@@ -9,8 +9,6 @@ image:
    thumb: "blog/2018-08-01/mu-thumb.jpg"
 categories:
     - blog
-tags:
-    - post format
 comments: true
 gallery:
     - image_url: blog/2018-08-01/family.jpg
@@ -71,7 +69,7 @@ This small "village" contains about 75 children og 160 adults distributed in 5 "
 - Unit 4: Cooperative owners, who own a share of the real estate.
 - Unit 5: Senior, typically for retired people.
 
-I live in the Family unit since the children of Anette recently moved out and she is able to rent two rooms in her house. 
+I live in the Family unit since the children of Anette recently moved out and she is able to rent out two rooms in her house. 
 Each unit has a common house with an industrial kitchen where residents organize and have dinners together, 
 at least 2-3 times a week. 
 
