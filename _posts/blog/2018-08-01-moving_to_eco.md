@@ -14,27 +14,25 @@ tags:
 comments: true
 gallery:
     - image_url: blog/2018-08-01/family.jpg
-      caption: 
+      caption: The family unit consists of three yellow, two-story houses, I live in the one peaking up in the middle and to the back.
     - image_url: blog/2018-08-01/common.jpg
-      caption: 
+      caption: The common house of the family unit. 
     - image_url: blog/2018-08-01/apple.JPG
-      caption: 
+      caption: A cover made in jeans from Bevar.
     - image_url: blog/2018-08-01/toilet.jpg
-      caption: 
+      caption: The toilet separates fluids from solids, sending the fluids to the fields as fertilizer.
     - image_url: blog/2018-08-01/fromage.JPG
-      caption: 
-    - image_url: blog/2018-08-01/buddha.JPG
-      caption: 
+      caption: The indoor style where I live is both cozy and light.
     - image_url: blog/2018-08-01/terrace.jpg
-      caption: 
+      caption: Morning sun hitting the terrace where I have my breakfast.
     - image_url: blog/2018-08-01/prince.JPG
-      caption: 
+      caption: Artwork in jeans by Anette Warming.
     - image_url: blog/2018-08-01/buck.jpg
-      caption: 
+      caption: The old goat buck Dakota trying to charm me for another apple.
 ---
 
-Although humans are said to be social animals, many people chose to live alone. 
-It's a choice that becomes easier if there's no partner involved (or that person lives in 
+Although humans are said to be social animals, many people choose to live alone. 
+It's a choice that becomes easier, I think, if there's no partner involved (or that person lives on 
 another continent!). 
 I lived alone for 4 years in a small studio apartment inside Copenhagen, 
 which was immensely convenient while writing my PhD and having a long-distance 
@@ -43,16 +41,16 @@ However, after those 4 years I decided that, at least
 for the time being, I need companions in the house, regardless of where my boyfriend lives. 
 
 Interestingly, I've always had strange, but good luck in finding roommates. 
-In Arizona, I lived in a shared house with 4-5 wonderful roommates and a large garden. 
+Lately in Arizona, where I lived in a shared house with 4 wonderful roommates and a large garden. 
 Now in Denmark, I had only been searching online for a couple of weeks, when I came in 
 contact with my current landlady, Anette Warming. 
 We quickly found out that we have the same drive and energy to start many projects 
-and not let fear or doubt hold us back, for better and for worse! 
+and not let fear or doubt hold us back, for better or for worse! 
 For Anette, it meant quitting a job in IT and starting her own company built 
-around the ideas of sustainability and human connection. 
+around ideas of sustainability and human connection. 
 For me, it meant putting my career in astronomy on hold while I try research in the field of 
-renewable energy and make a difficult move from a place I had begun to love. 
-You can about the company that Anette created here: https://bevar.dk/anette-warming/, 
+renewable energy and making a difficult move from a place I had begun to love. 
+You can about read the company "Bevar" that Anette created here: [https://bevar.dk/anette-warming/](https://bevar.dk/anette-warming/), 
 and also see some of her products below made of used/rejected jeans. 
 
 After a few emails and some pictures of the house, 
@@ -67,11 +65,12 @@ It's called Munksøgård.
 About 25 km west of Copenhagen, the capital of Denmark, Munksøgård is a collection of row houses built around an 
 old farm in the outskirts of Roskilde city. 
 This small "village" contains about 75 children og 160 adults distributed in 5 "units": 
-- Youth, typically for students.<br>
-- Family, for couples with children. Typically they rent their home.
-- Owners, who actually bought their house.
-- Cooperative owners, who own a share of the real estate.
-- Senior, typically for retired people.
+- Unit 1: Youth, typically for students.
+- Unit 2: Family, for couples with children. Typically they rent their home.
+- Unit 3: Owners, who actually bought their house.
+- Unit 4: Cooperative owners, who own a share of the real estate.
+- Unit 5: Senior, typically for retired people.
+
 I live in the Family unit since the children of Anette recently moved out and she is able to rent two rooms in her house. 
 Each unit has a common house with an industrial kitchen where residents organize and have dinners together, 
 at least 2-3 times a week. 
@@ -92,6 +91,7 @@ animals almost every evening.
 
 You can read more about the village at [this website](http://xn--munksgrd-f0a2q.dk/index_en.html).
 
+Click on the images below to see them in full size with captions:
 
 {% include gallery %}
 
