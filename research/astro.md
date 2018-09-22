@@ -15,6 +15,7 @@ There I carried out independent research on galaxies far away from our own Milky
 My mentors were [Sangeeta Malhotra](https://asu.pure.elsevier.com/en/persons/sangeeta-malhotra) and [Rogier Windhorst](http://sese-archive.asu.edu/people/rogier-windhorst). 
 See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions for me.
 
+<h2 style="color: #006699">SÍGAME</h2>
 
 My main research project at ASU has been SÍGAME - a module designed to model nebular line emission in the 
 far-infrared from galaxies and make predictions for future observations. 
@@ -30,6 +31,24 @@ and the software tool is now available for download via GitHub.
 
 <a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Learn more about and download SÍGAME here›</a>
 
+<h2 style="color: #006699">Organizing a conference on simulations of line emission</h2>
+
+In March 2018 I organized and lead a 3-day workshop calleld 'Walking the Line' on simulating line emission from galaxies. 
+It attracted around 30 researches of all ages from around the world with three prominent invited speakers. 
+The program included several break-out sessions and group discussions at the end of each day. 
+At the end of the workshop it was decided to write up a proceedings paper on the conclusions 
+and scientific questions for the future resulting from our discussions. 
+Writing this paper was one of the best experiences in my career within astrophysics so far, because 
+I think we were able to highlight the most important challenges faced by astronomers in this field; 
+[Read the open source conference paper here](http://www.mdpi.com/2075-4434/6/4/100/htm). 
+I was also lucky to be surrounded by motivated and encouraging participants of the workshop, most of which 
+helped in the writing of the paper.
+
+<a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Go to the official website of the conference›</a>
+
+![Me and the group of participants at Walking the Line 2018](group.jpg)
+
+<h2 style="color: #006699">X-ray imaging of galaxies</h2>
 
 At the Dark Cosmology Centre, I also worked on a more observational project which quantified the presence 
 of active galactic nuclei (AGN) in massive galaxies at redshifts around 2 (about 10 billion years ago!) 
@@ -69,6 +88,8 @@ where rotational lines of molecules and fine structure lines of atoms and ions a
 typical ISM temperatures and densities. <br><br>
 
 <h2 style="color: #006699">Publications</h2>
+
+2018: <a href="http://www.mdpi.com/2075-4434/6/4/100/htm">Challenges and Techniques for Simulating Line Emission (MDPI Galaxies 6(4), 100, 2018)</a>
 
 2017: <a href="http://adsabs.harvard.edu/abs/2017ApJ...846..105O">SÍGAME Simulations of the [CII], [OI], and [OIII] Line Emission from Star-forming Galaxies at z ~ 6 (ApJ 846 2, 2017)</a>
 
