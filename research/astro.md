@@ -44,7 +44,7 @@ I think we were able to highlight the most important challenges faced by astrono
 I was also lucky to be surrounded by motivated and encouraging participants of the workshop, most of which 
 helped in the writing of the paper.
 
-<a class="radius button small" href="{{ site.url }}/SIGAME_dev/">Go to the official website of the conference›</a>
+<a class="https://walk2018.weebly.com/">Go to the official website of the conference›</a>
 
 ![Me and the group of participants at Walking the Line 2018](group.jpg)
 
