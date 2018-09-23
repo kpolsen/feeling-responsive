@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "volun_3884_2800.jpg"
-permalink: "/SIA_Gila/"
+permalink: "/volun/SIA_Gila/"
 comments: true
 
 ---

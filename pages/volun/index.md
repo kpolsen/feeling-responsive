@@ -5,7 +5,7 @@ title: "Volunteer work"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "outreach_3884_2800.jpg"
+   image_fullwidth: "volun_3884_2800.jpg"
 permalink: "/volun/"
 ---
 
@@ -18,8 +18,7 @@ Dates: 2017-09-21 to 2017-09-24
 <center>Planting polinators close to the Gila Cliff Dwellings in New Mexico. </center>
 <center>(click the image to keep reading...)</center>
 
-[<img src="pages/SIA_Gila/plantitas.jpg">](http://kpolsen.github.io/SIA_Gila/)
-[<img src="SIA_Gila/plantitas.jpg">](http://kpolsen.github.io/SIA_Gila/)
+[<img src="{{ site.url }}/pages/volun/SIA_Gila/plantitas.jpg">](http://kpolsen.github.io/volun/SIA_Gila/)
 <!-- <a class="radius button small" href="{{ site.url }}/research/astro/">Read about my projects in astronomy›</a> -->
 
 
