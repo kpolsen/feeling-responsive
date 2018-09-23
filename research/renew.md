@@ -47,6 +47,6 @@ My work so far has been to analyze wind power production time series, with the p
 A great tool for the analysis of a fluctuating signal, is Fourier analysis which I have exploited in order to separate low frequency fluctuations from high frequency ones. Below is an example for a week in 2018, where I have identified dips in national wind power production on different timescales:
 
 ![Dips in wind power production in Denmark.](dips_DK.png)
-<center>Identifying dips in wind power production on different time scales, with longer dips indicated with red-shaded areas and shorter dips indicated with blue-shaded areas. Made with data from https://www.energidataservice.dk/.</center>
+<center>Identifying dips in wind power production on different time scales, with longer dips indicated with areas of red shade and shorter dips indicated with blue areas. Made with data from https://www.energidataservice.dk/.</center>
 <br>
 
