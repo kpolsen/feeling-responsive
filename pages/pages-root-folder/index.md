@@ -14,7 +14,7 @@ widget1:
   text: 'Talks and presentations from different events.'
 widget2:
   title: "Volunteer work"
-  url: 'https://kpolsen.github.io/travel/'
+  url: 'https://kpolsen.github.io/volun/'
   image: volun_3884_2800.jpg
   text: 'Projects I have worked/work on and the people I meet there.'
 widget3:
