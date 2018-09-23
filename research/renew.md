@@ -24,7 +24,7 @@ As a step towards reaching that goal, the Danish Parliament agreed in 2012 on a 
 We are well on our way, with [wind turbines delivering power equivalent to 43.6% of Denmark’s electricity consumption in 2017](https://cleantechnica.com/2018/01/06/44-wind-denmark-smashed-already-huge-wind-energy-records-2017/). 
 Since the installation of the first wind turbines in Denmark in the 70's, the total capacity of installed wind turbines has been increasing to almost 6000 MW:
 ![Increase in total capacity of installed wind turbines](capacity.png)
-<center>Increase in total capacity of installed wind turbines, made with data from [https://ens.dk/](https://ens.dk/).</center>
+<center>Increase in total capacity of installed wind turbines, made with data from https://ens.dk/.</center>
 <br>
 
 Especially the Western regions of Denmark (DK1) can produce a lot of wind power, due to strong winds reaching Denmark from the Atlantic ocean. 
@@ -47,6 +47,6 @@ My work so far has been to analyze wind power production time series, with the p
 A great tool for the analysis of a fluctuating signal, is Fourier analysis which I have exploited in order to separate low frequency fluctuations from high frequency ones. Below is an example for a week in 2018, where I have identified dips in national wind power production on different timescales:
 
 ![Dips in wind power production in Denmark.](dips_DK.png)
-<center>Identifying dips in wind power production on different time scales, with longer dips indicated with red-shaded areas and shorter dips indicated with blue-shaded areas. Made with data from [https://www.energidataservice.dk/](https://www.energidataservice.dk/).</center>
+<center>Identifying dips in wind power production on different time scales, with longer dips indicated with red-shaded areas and shorter dips indicated with blue-shaded areas. Made with data from https://www.energidataservice.dk/.</center>
 <br>
 
