@@ -24,7 +24,8 @@ As a step towards reaching that goal, the Danish Parliament agreed in 2012 on a 
 We are well on our way, with [wind turbines delivering power equivalent to 43.6% of Denmark’s electricity consumption in 2017](https://cleantechnica.com/2018/01/06/44-wind-denmark-smashed-already-huge-wind-energy-records-2017/). 
 Since the installation of the first wind turbines in Denmark in the 70's, the total capacity of installed wind turbines has been increasing to almost 6000 MW:
 ![Increase in total capacity of installed wind turbines](capacity.png)
-<center>Increase in total capacity of installed wind turbines, made with data from [https://ens.dk/].</center>
+<center>Increase in total capacity of installed wind turbines, made with data from [https://ens.dk/](https://ens.dk/).</center>
+<br>
 
 Especially the Western regions of Denmark (DK1) can produce a lot of wind power, due to strong winds reaching Denmark from the Atlantic ocean. 
 If all those wind turbines were operating at their maximum capacity at the same time, it would be enough to support roughly 8 million homes, if we adopt a relatively high annual energy consumption of [6000 kWh per year per household](https://www.ovoenergy.com/guides/energy-guides/how-much-electricity-does-a-home-use.html). 
@@ -42,7 +43,10 @@ I work in a group at DTU that searched for ways to reshape and store wind power 
 For that work, I am involved in the EPIMES project: [Enhancing wind Power Integration through optimal use of cross-sectoral flexibility in an integrated Multi-Energy System](http://www.dtu.dk/english/news/nyhed?id=1e387552-3d06-4f2c-ab2b-f1b602e8e27a), a project which is a collaboration between DTU CEE and Chinese partners, including Tsinghua University in Beijing. 
 On the Danish side, much work has gone into studying the flexibility options in a normal residential house, where energy can be stored as heat and smart planning using Model Predictive Control, can ensure that heating takes place mostly at times with low electricity prices ([see a recent paper on this here](http://orbit.dtu.dk/files/139062795/WJET_2017101016173894.pdf)). 
 
+My work so far has been to analyze wind power production time series, with the purpose of identifying fluctuations and converting them to flexibility demands on responsive loads, such as residential houses with smart controls. 
+A great tool for the analysis of a fluctuating signal, is Fourier analysis which I have exploited in order to separate low frequency fluctuations from high frequency ones. Below is an example for a week in 2018, where I have identified dips in national wind power production on different timescales:
 
 ![Dips in wind power production in Denmark.](dips_DK.png)
-<center>Identifying dips in wind power production on different time scales, with longer dips indicated with red-shaded areas and shorter dips indicated with blue-shaded areas. Made with data from [https://www.energidataservice.dk/].</center>
+<center>Identifying dips in wind power production on different time scales, with longer dips indicated with red-shaded areas and shorter dips indicated with blue-shaded areas. Made with data from [https://www.energidataservice.dk/](https://www.energidataservice.dk/).</center>
+<br>
 
