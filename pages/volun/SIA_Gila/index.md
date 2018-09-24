@@ -27,7 +27,6 @@ learning all the new faces!
 My REI tent still feels like new and I've figured out the exact amount of 
 duvets and blankets to not be cold at night:
 
-<!-- ![](tent.jpg) -->
 <center><img src="{{ site.url }}/pages/volun/SIA_Gila/tent.jpg" width="500"></center><br>
 
 We were a large group of people coming from different organizations 
@@ -41,52 +40,52 @@ Bryon from SIA and Marcus from AZNPS.
 
 On Friday we had breakfast with the rising sun...
 
-<center><img src="oat.jpg" width="500"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/oat.jpg" width="500"></center><br>
 
 At 9AM we got to work, planting native seedlings together with 
 drywater and a flag to keep track of the species (the position of each plant 
 was actually marked by GPS!):
 
 
-<center><img src="planting.jpg" width="500"></center><br>
-<center><img src="burnt.jpg" width="500"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/planting.jpg" width="500"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/burnt.jpg" width="500"></center>
 
 Both Friday and Saturday night we went to a natural hotsprings 
 to rinse off the dust and heat the bones:
 
-<center><img src="hotsprings.jpg" width="600"></center><br>
-<center><img src="tree.jpg" width="500"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/hotsprings.jpg" width="600"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/tree.jpg" width="500"></center>
 
 On Saturday it actually started raining and we had to abandon the seed 
 collection that Marcus had initiated. 
 Traveling with people that are very experienced in camping is so pleasant though - of course some 
 people had brought covers in case of rain.
 
-<center><img src="rain.jpg" width="500"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/rain.jpg" width="500"></center>
 
 On Saturday we had a guided tour to the Gila Cliff dwellings, 
 learning about the Mongollon people that used to live here 
 from 1275 to the early 14th century.
 
-<center><img src="dwellings.jpg" width="600"></center><br>
-<center><img src="tdoor.jpg" width="500"></center><br>
-<center><img src="window.jpg" width="600"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/dwellings.jpg" width="600"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/tdoor.jpg" width="500"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/window.jpg" width="600"></center>
 
 The T-shaped door above is apparently a trademark of the 
 Anasazi (or pueblo) people, showing that the different tribes communicated and 
 mixed. This hillside on the other side of the cayon looked particularly dreamy and 
 full of legends to me:
 
-<center><img src="hillside.jpg" width="600"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/hillside.jpg" width="600"></center>
 
 On Sunday morning, I washed my hair in the river before we got to work pulling 
 up the invasive mullein plant.
 
-<center><img src="river.jpg" width="500"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/river.jpg" width="500"></center>
 
 And that was it! After lunch, we headed back to Tucson through the [Texas Canyon](http://www.desertrambler.com/texas-canyon.html) - 
 that weird area of boulders(1) thrown around at random.
 
-<center><img src="turd.jpg" width="500"></center>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/turd.jpg" width="500"></center>
 
 (1) boulders that look kind of like turds if you ask Barbara Kingsolver.
