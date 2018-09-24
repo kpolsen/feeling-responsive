@@ -27,14 +27,14 @@ learning all the new faces!
 My REI tent still feels like new and I've figured out the exact amount of 
 duvets and blankets to not be cold at night:
 
-![](tent.jpg)
+<!-- ![](tent.jpg) -->
 <center><img src="{{ site.url }}/pages/volun/SIA_Gila/tent.jpg" width="500"></center><br>
 
 We were a large group of people coming from different organizations 
 (National Park Service, Arizona Native Plant Society, American Conservation Experience in addition to SIA), 
 but these were our guides and coordinators:
 
-<center><img src="leaders.jpg" width="500"></center><br>
+<center><img src="{{ site.url }}/pages/volun/SIA_Gila/leaders.jpg" width="500"></center><br>
 
 From left to right: Genine from NPS, Madeline from SIA (and her dad), 
 Bryon from SIA and Marcus from AZNPS. 
