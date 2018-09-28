@@ -29,7 +29,7 @@ Dates: 2016-11-12
 <center>Demonstrating in central Phoenix. </center>
 <center>(click the image to keep reading...)</center>
 
-[<img src="demo/demo.jpg">](http://kpolsen.github.io/Volun/demo/)
+[<img src="{{ site.url }}/pages/volun/demo/demo.jpg">](http://kpolsen.github.io/volun/demo/)
 
 ---
 
@@ -40,7 +40,7 @@ Dates: 2016-02-08 to 2016-02-27
 <center>A 3-week internship, meeting lovely people and living out a passion! </center>
 <center>(click the image to keep reading...)</center>
 
-[<img src="Taos/sun.jpg">](http://kpolsen.github.io/Volun/Taos/)
+[<img src="{{ site.url }}/pages/volun/Taos/sun.jpg">](http://kpolsen.github.io/volun/Taos/)
 
 ---
 
@@ -51,7 +51,7 @@ Dates: 2015-11-14
 <center>A day in the southwestern wilderness. </center>
 <center>(click the image to keep reading...)</center>
 
-[<img src="SIA15/heart.jpg">](http://kpolsen.github.io/Volun/SIA15/)
+[<img src="{{ site.url }}/pages/volun/SIA15/heart.jpg">](http://kpolsen.github.io/volun/SIA15/)
 
 ---
 
