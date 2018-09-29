@@ -5,7 +5,7 @@ title: "Assessing springs with Sky Island Alliance"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "volun_3884_2800.jpg"
+   image_fullwidth: "volun-2.jpg"
 permalink: "/volun/SIA15/"
 comments: true
 
