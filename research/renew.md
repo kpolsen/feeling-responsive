@@ -11,6 +11,12 @@ permalink: "/research/renew/"
 
 I currently work as postdoctoral research at the Center for Electric Power and Energy ([CEE or Elektro](http://www.cee.elektro.dtu.dk/)) at the Danish Technical University (DTU). My research focuses on the [integrated energy infrastructures](http://www.cee.elektro.dtu.dk/research/Interconnected-energy-system/Integrated-energy-infrastructures) necessary in order to increase the penetration of renewable energy in the Danish electricity supply.
 
+Currently, I'm writing a module in python to better analyze ramps in wind power production. 
+Since the module is essentially a pipeline tool to handle time series of wind power, 
+I named it windpype (with 'py' as in python, because misspelling is in):
+
+<a class="radius button small" href="{{ site.url }}/windpype/">Learn more about windpype here›</a>
+
 
 <h2 style="color: #006699">No fossil fuels by 2050 in Denmark</h2>
 
