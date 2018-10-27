@@ -27,7 +27,7 @@ Check out our group page by clicking below:
 <a class="radius button small" href="https://prickly-pythons.github.io/">Go to the Prickly Pythons website›</a>
 
 Here is an exxample of a presentation I gave on the topic of 'Clean Coding': 
-<a href="presentations/clean_coding.pdf"><font color="#660033">View and download a PDF version of 'Clean Coding' talk</font></a>
+<a href="{{ site.url }}/pages/presentations/clean_coding.pdf"><font color="#660033">View and download a PDF version of 'Clean Coding' talk</font></a>
 
 
 <br>
