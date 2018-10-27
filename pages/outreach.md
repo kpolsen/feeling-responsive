@@ -56,7 +56,7 @@ ___
 <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
 I gave a talk at my department, summarizing my recent work with <a href="https://kpolsen.github.io/SIGAME_dev/"><font color="#660033">SÍGAME</font></a> and outlining on-going and future 
 research projects. Title: 'Making Sense of FIR Line Emission with Synthetic Observations'. 
-<a href="presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
@@ -69,7 +69,7 @@ I organized a workshop at Arizona State University, centered on the challenge of
 
 <b style="color: #006699">01-13-18: Conferences for Undergraduate Women in Physics (CUWiP)</b><br>
 I participated as invited speaker to the breakout session about "Hot Topics in Physics".<br> 
- <a href="">http://www.aps.org/programs/women/workshops/cuwip.cfm<font color="#660033">See the program here.</font></a> and download my <a href="presentations/CUWiP/hot_topic_2018.pdf"><font color="#660033">presentation slides in PDF format here</font></a>.
+ <a href="">http://www.aps.org/programs/women/workshops/cuwip.cfm<font color="#660033">See the program here.</font></a> and download my <a href="{{ site.url }}/pages/presentations/CUWiP/hot_topic_2018.pdf"><font color="#660033">presentation slides in PDF format here</font></a>.
 
 <br>
 
@@ -87,7 +87,7 @@ I gave a webinar to the Far-Infrared Science Interest Group (FIR SIG) and you ca
 <b style="color: #006699">06-29-17: Colloquium at IRyA, UNAM, Morelia, Mexico</b><br>
 While visiting the "Instituto de Radioastronomía y Astrofísica", I gave a 50min talk on results with SÍGAME modeling [CII] emission at redshift 6, now 
 forming a paper submitted to ApJ.
-<a href="presentations/[CII]_at_z_6_UNAM.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/[CII]_at_z_6_UNAM.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
@@ -95,7 +95,7 @@ forming a paper submitted to ApJ.
 I gave a 45min talk at my institute (SESE, ASU) 
 on results with SÍGAME for modeling [CII] emission at redshift 6, now 
 forming a paper close to submission.
-<a href="presentations/[CII]_at_z_6_SESE.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/[CII]_at_z_6_SESE.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
@@ -113,7 +113,7 @@ ___
 <b style="color: #006699">11-14-16 to 11-18-16: Visitor at NMSU, Las Cruces, NM</b><br>
 I came to collaborate with professor Kristian Finlator primarily, and gave a colloquium on Friday Nov 18 
 on early results with SÍGAME for modeling [CII] emission at redshift 6.
-<a href="presentations/[CII]_at_z_6_NMSU.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/[CII]_at_z_6_NMSU.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
@@ -162,19 +162,19 @@ ___
 
 <b style="color: #006699">12-02-15: Talk at NRAO, Socorro, NM</b><br>
 Simulating [CII] emission: Results for z=2 main sequence galaxies<br>
-<a href="presentations/2015-12-02.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/2015-12-02.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
 <b style="color: #006699">11-10-15: Practice Talk Session at SESE, ASU in Tempe, AZ</b><br>
 First session: Key aspects of a good talk (prepared and presented in collaboration with <a href="http://sese.asu.edu/people/julia-cartwright"><font color="#660033">Julia Cartwright</font></a> from SESE.)<br>
-<a href="presentations/2015-11-10.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/2015-11-10.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
 <b style="color: #006699">09-18-15: Cosmology Seminar at SESE, ASU in Tempe, AZ</b><br>
 ISM: Modeling and observing<br>
-<a href="presentations/2015-09-18.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/2015-09-18.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
 
