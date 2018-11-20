@@ -47,7 +47,7 @@ You can also get fancy, and make the following changes to load actual 2D imagery
 m.arcgisimage(service =  "ESRI_Imagery_World_2D", xpixels = 2000, alpha=0.05)
 ```
 
-Here, I also changed color of the DK1 turbine locations, in order so see them better:
+Here, I also changed the color of the DK1 turbine locations to 'magenta', in order so see them better:
 
 <img src="{{ site.urlimg }}/blog/2018-11-20/turbine_placement_mean_r_epsg.png" alt="" width="600">
 
