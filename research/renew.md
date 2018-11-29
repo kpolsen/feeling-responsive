@@ -24,7 +24,7 @@ exceeds gross consumption, leading to positive residual load (black dashed):
 
 ![Dips in wind power production in Denmark.](residual_load_data.png)
 <center>Renewable power production, gross consumption and residual load during a two week time period in October 2017. 
-Made with data from [https://www.energidataservice.dk/](https://www.energidataservice.dk/).</center>
+Made with data from https://www.energidataservice.dk.</center>
 <br>
 
 <h2 style="color: #006699">No fossil fuels by 2050 in Denmark</h2>
@@ -39,7 +39,7 @@ As a step towards reaching that goal, the Danish Parliament agreed in 2012 on a 
 We are well on our way, with [wind turbines alone delivering power equivalent to 43.4% of Denmark’s electricity consumption in 2017](https://cleantechnica.com/2018/01/06/44-wind-denmark-smashed-already-huge-wind-energy-records-2017/). 
 Since the installation of the first wind turbines in Denmark in the 70's, the total capacity of installed wind turbines has been increasing to almost 6000 MW today:
 ![Increase in total capacity of installed wind turbines](capacity.png)
-<center>Increase in total capacity of installed wind turbines, where DK1 and DK2 refers to West and East Denmark respectively, divided at the Little Belt. Made with data from [Energistyrelsen](https://ens.dk/).</center>
+<center>Increase in total capacity of installed wind turbines, where DK1 and DK2 refers to West and East Denmark respectively, divided at the Little Belt. Made with data from https://ens.dk/.</center>
 <br>
 
 Especially the Western regions of Denmark (DK1) can produce a lot of wind power, due to strong winds reaching Denmark from the Atlantic ocean. 
@@ -66,7 +66,7 @@ The bottom panel gives the residual load (black dashed) and the Fourier componen
 (denoted by their corresponding period in the plot legend). 
 
 ![Fourier analysis of residual load in Denmark.](timeseries.png)
-<center>Identifying fluctuations in residual power on different time scales. Made with data from [https://www.energidataservice.dk/](https://www.energidataservice.dk/).</center>
+<center>Identifying fluctuations in residual power on different time scales. Made with data from https://www.energidataservice.dk.</center>
 <br>
 
 Having separated fluctuations on different time scales, they can be further analyzed to give the relative capacity needed from different types of ES, from residential houses to 
