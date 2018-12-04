@@ -91,5 +91,34 @@ header:
 <br>
 
 
+## My own
 
+### Easy overnight bread
+Ready the evening after!!<br>
+12 dl water<br>
+300g rolled oats and whole grain flour<br>
+about 400g regular flour<br>
+20g yeast<br>
+1 tsp sugar<br>
+2 tsp salt<br>
+- Mix and add flour until reaching a porridge, sticky consistency.
+- Let it rise overnight in fridge<br>
+- Oil a baking pan with olive oil, place the dough and cover with more oil<br>
+- let rise at room temp another 6 hrs or so<br>
+- Half an hour at 225 Celcius <br>
+- Then down to 150 Celcius until done (30min?)<br>
+
+### Pizza dough
+25g yeast<br>
+800g pizza flour<br>
+200g wholegrain flour<br>
+600 ml water<br>
+2 tsp salt<br>
+a bit of sugar and olive oil<br>
+- dilute salt in water, add sugar, yeast and oil<br>
+- 15 min kneading<br>
+- leave in fridge (or 10 Celcius) overnight<br>
+- the day after, stretch the dough (don't smash) in trays with oil and turn over so covered in oil<br>
+- 2 hrs in oven at slightly more than room temp<br>
+- with toppings: 250 Celcius (or as high as possible) for 10 min or so.<br> 
 
