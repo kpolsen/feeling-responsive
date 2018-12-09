@@ -93,6 +93,22 @@ header:
 
 ## My own
 
+### Easy pancakes for two (or one if very hungry)
+1.5 cups flour (can be mixed types)<br>
+1 big tsp baking powder<br>
+1/2 tsp salt<br>
+2 tsp sugar<br>
+1 tsp vanilla powder<br>
+1 1/4 cups milk<br>
+1 egg (vegan: 3 tbsp linseed to 1 dl water)<br>
+3 tbsp butter<br>
+- Mix all the dry ingredients well<br>
+- Heat butter and mix with the other wet ingredients<br>
+- Make a hole in the flour and add the wet stuff<br>
+- *Dont't* mix too well since that can make the pancakes "heavy"<br>
+- Fry! In butter, coconut oil, sesame oil or whatever!<br>
+
+
 ### Easy overnight bread
 Ready the evening after!!<br>
 12 dl water<br>
