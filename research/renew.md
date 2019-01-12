@@ -83,7 +83,7 @@ still very much under development.
 Since the module is essentially a pipeline tool to handle time series of wind power, 
 I named it windpype (with 'py' as in python, because misspelling is in):
 
-<a class="radius button small" href="{{ site.url }}/windpype/">Learn more about windpype here›</a>
+<a class="radius button small" href="{{ site.url }}/windpype_dev/">Learn more about windpype here›</a>
 
 
 
