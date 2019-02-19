@@ -12,7 +12,7 @@ permalink: "/outreach/"
 ## Organizer of TIP meetings: Tips in Programming
 At the Technical University of Denmark (DTU) I organize group meetings on various topics dealing with tools and techniques used, 
 mainly in data analysis, but also in software development and data management. 
-Each session is about an hour with a format very much like the Python meetings I was arranging at ASU (see below). 
+Each session is about an hour long with a format very much alike that of the Python meetings I was arranging at ASU (see below). 
 But the crowd consists of mainly electrical engineers, with a different set of challenges, and we have a lot of fun sharing new methods. 
 
 <br>
@@ -65,7 +65,7 @@ ___
 As a way of disseminating my first results in the research area of renewable energy, I traveled to the island of Bornholm and gave a talk 
 at the transmission (and distribution) system operator BEOF in Rønne, Bornholm. 
 We use a very valuable data set taken on Bornholm since 2017, and it therefore made much sense to present the results on the island. The paper presented, 
-is being reviewed for a PowerTech conference.<br>
+is currently under review for a PowerTech conference.<br>
 Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'. 
 <a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
