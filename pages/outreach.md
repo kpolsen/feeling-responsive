@@ -9,6 +9,14 @@ header:
 permalink: "/outreach/"
 ---
 
+## Organizer of TIP meetings: Tips in Programming
+At the Technical University of Denmark (DTU) I organize group meetings on various topics dealing with tools and techniques used, 
+mainly in data analysis, but also in software development and data management. 
+Each session is about an hour with a format very much like the Python meetings I was arranging at ASU (see below). 
+But the crowd consists of mainly electrical engineers, with a different set of challenges, and we have a lot of fun sharing new methods. 
+
+<br>
+
 ## Organizer of Python meetings
 At Arizona State University (ASU) I organized group meetings for scientists using python in their research at ASU. 
 Meetings are every second week and we have a github repository to share knowledge and ask questions. 
@@ -49,9 +57,33 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 
 ___
 
+## 2019
+<br>
+
+
+<b style="color: #006699">02-18-19: Meeting at Bornholms Energi & Forsyning (BEOF)</b><br>
+As a way of disseminating my first results in the research area of renewable energy, I traveled to the island of Bornholm and gave a talk 
+at the transmission (and distribution) system operator BEOF in Rønne, Bornholm. 
+We use a very valuable data set taken on Bornholm since 2017, and it therefore made much sense to present the results on the island. The paper presented, 
+is being reviewed for a PowerTech conference.<br>
+Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'. 
+<a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+
+<br>
+
+
+___
+
 ## 2018
 <br>
 
+<b style="color: #006699">09-20-18 to 09-21-18: CITIES 5th General Consortium Meeting, Fredericia, Denmark</b><br>
+I participated in <a href="http://smart-cities-centre.org/events/consortium-meetings/"><font color="#660033">the annual consortium meeting</font></a> 
+of the CITIES (Centre for IT-Intelligent Energy Systems in cities) project. 
+This project aims at improving the integration of different energy sectors, such as gas, power, district heating/cooling and biomass. 
+Equally important is to forecast, control and optimize the interactions of these different energy sectors through the use of advanced ICT solutions.
+
+<br>
 
 <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
 I gave a talk at my department, summarizing my recent work with <a href="https://kpolsen.github.io/SIGAME_dev/"><font color="#660033">SÍGAME</font></a> and outlining on-going and future 
