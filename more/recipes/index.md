@@ -109,20 +109,46 @@ header:
 - Fry! In butter, coconut oil, sesame oil or whatever!<br>
 
 
-### Easy overnight bread
-Ready the evening after!!<br>
-12 dl water<br>
-300g rolled oats and whole grain flour<br>
-about 400g regular flour<br>
-20g yeast<br>
-1 tsp sugar<br>
-2 tsp salt<br>
-- Mix and add flour until reaching a porridge, sticky consistency.
-- Let it rise overnight in fridge<br>
-- Oil a baking pan with olive oil, place the dough and cover with more oil<br>
-- let rise at room temp another 6 hrs or so<br>
-- Half an hour at 225 Celcius <br>
-- Then down to 150 Celcius until done (30min?)<br>
+### Recipe for Bread Proofing Basket
+([From Mrs Larsen](http://www.frularsen.nu/?p=1619&fbclid=IwAR32KbGDJ1_VD-lwMos48FQB98EV0KyH1lEb7lJJm5uCD5-PsD2Myo4931w))
+<br>
+5 dl water<br>
+25g yeast<br>
+3 tsp sugar<br>
+4 tsp salt<br>
+1/2 dl oil<br>
+450g regular flour<br>
+200g rye flour / grahamflour<br>
+- Dilute yeast in warm water.<br> 
+- add sugar, oil and salt.<br>
+- Let it rise 30 min<br>
+- Pour the dough onto a table top covered in flour.<br>
+- Stretch and fold until it is hard to fold.<br>
+- Pour into basket and let rise for 2 hours.<br>
+- Heat oven with baking tray to 250 Celcius. <br>
+- Turn basket upside down to transfer dough onto tray. <br>
+- Bake for 5 min and then 30 min at 200 Celcius.<br>
+- Bread is done when knocking on the bottom makes a hollow sound.<br>
+
+### "Sourdough" Bread
+Family recipe.
+<br>
+300 ml buttermilk<br>
+25g yeast<br>
+500g regular flour<br>
+1 handful cumin seeds<br>
+- Dilute yeast in warm buttermilk.<br> 
+- Add flour and cumin seeds and knead for 10-15 min.<br>
+- Let it rise 45 min<br>
+- Stretch and fold until it is hard to fold.<br>
+- Either braid the dough or form a bread.<br>
+- Let it rise another 45 min<br>
+- Heat oven with baking tray to 225 Celcius. <br>
+- Bake for 30-35 min.<br>
+- Bread is done when knocking on the bottom makes a hollow sound.<br>
+- Take bread out and pour salt water (3 tsp hot water + 1 tsp salt) on top.<br>
+- Allow to rest on a rack (so bottom doesn't get soaked in salt water).<br>
+
 
 ### Pizza dough
 25g yeast<br>
