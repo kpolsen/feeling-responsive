@@ -110,8 +110,7 @@ header:
 
 
 ### Recipe for Bread Proofing Basket
-([From Mrs Larsen](http://www.frularsen.nu/?p=1619&fbclid=IwAR32KbGDJ1_VD-lwMos48FQB98EV0KyH1lEb7lJJm5uCD5-PsD2Myo4931w))
-<br>
+<!-- ([From Mrs Larsen](http://www.frularsen.nu/?p=1619&fbclid=IwAR32KbGDJ1_VD-lwMos48FQB98EV0KyH1lEb7lJJm5uCD5-PsD2Myo4931w))<br> -->
 5 dl water<br>
 25g yeast<br>
 3 tsp sugar<br>
@@ -131,8 +130,7 @@ header:
 - Bread is done when knocking on the bottom makes a hollow sound.<br>
 
 ### "Sourdough" Bread
-Family recipe.
-<br>
+(Family recipe)<br>
 300 ml buttermilk<br>
 25g yeast<br>
 500g regular flour<br>
