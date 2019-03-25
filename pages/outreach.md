@@ -17,7 +17,7 @@ But the crowd consists of mainly electrical engineers, with a different set of c
 
 <br>
 
-<!-- ## Organizer of Python meetings
+## Organizer of Python meetings
 At Arizona State University (ASU) I organized group meetings for scientists using python in their research at ASU. 
 Meetings are every second week and we have a github repository to share knowledge and ask questions. 
 We decided a topic for each meeting based on where people are having most struggles! 
@@ -57,7 +57,7 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 
 ___
 
-## 2019
+<!-- ## 2019
 <br>
 
 
