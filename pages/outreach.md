@@ -57,7 +57,7 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 
 ___
 
-<!-- ## 2019
+## 2019
 <br>
 
 
@@ -85,7 +85,7 @@ Equally important is to forecast, control and optimize the interactions of these
 
 <br>
 
-<b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
+<!-- <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
 I gave a talk at my department, summarizing my recent work with <a href="https://kpolsen.github.io/SIGAME_dev/"><font color="#660033">SÍGAME</font></a> and outlining on-going and future 
 research projects. Title: 'Making Sense of FIR Line Emission with Synthetic Observations'. 
 <a href="{{ site.url }}/pages/presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
