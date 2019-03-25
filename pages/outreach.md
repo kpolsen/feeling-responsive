@@ -17,7 +17,7 @@ But the crowd consists of mainly electrical engineers, with a different set of c
 
 <br>
 
-## Organizer of Python meetings
+<!-- ## Organizer of Python meetings
 At Arizona State University (ASU) I organized group meetings for scientists using python in their research at ASU. 
 Meetings are every second week and we have a github repository to share knowledge and ask questions. 
 We decided a topic for each meeting based on where people are having most struggles! 
@@ -168,7 +168,7 @@ Kevin Conklin and you can listen to the podcast here:
 
 <audio controls="controls">
   <source type="audio/mp3" src="{{ site.url }}/pages/presentations/Olsen_Conklin_2016.mp3"></source>
-  <!-- <source type="audio/ogg" src="filename.ogg"></source> -->
+  <!-- <source type="audio/ogg" src="filename.ogg"></source>
   <!-- <p>Your browser does not support the audio element.</p> -->
 </audio>
 <!-- 
@@ -214,3 +214,4 @@ ISM: Modeling and observing<br>
 Bridging the Gap: Observations and Theory of Star Formation Meet on Large and Small Scales: A one week conference/workshop at the Keck Institute
 of Space Studies (KISS) to establish the goals that will enable progress in this field of astronomy.  <br>
 <a href="http://kiss.caltech.edu/new_website/programs/SF-FullDraft.v5c.pdf"><font color="#660033">Read the final report that I contributed to here.</font></a>
+ --> -->
