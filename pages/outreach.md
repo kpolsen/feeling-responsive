@@ -66,11 +66,12 @@ As a way of disseminating my first results in the research area of renewable ene
 at the transmission (and distribution) system operator BEOF in Rønne, Bornholm. 
 We use a very valuable data set taken on Bornholm since 2017, and it therefore made much sense to present the results on the island. The paper presented, 
 is currently under review for a PowerTech conference.<br>
-Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'. 
+Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'.
+<!--  
 <a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
 
 <br>
-
+ -->
 
 ___
 
@@ -214,4 +215,3 @@ ISM: Modeling and observing<br>
 Bridging the Gap: Observations and Theory of Star Formation Meet on Large and Small Scales: A one week conference/workshop at the Keck Institute
 of Space Studies (KISS) to establish the goals that will enable progress in this field of astronomy.  <br>
 <a href="http://kiss.caltech.edu/new_website/programs/SF-FullDraft.v5c.pdf"><font color="#660033">Read the final report that I contributed to here.</font></a>
- --> -->
