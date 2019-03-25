@@ -67,11 +67,13 @@ at the transmission (and distribution) system operator BEOF in Rønne, Bornholm.
 We use a very valuable data set taken on Bornholm since 2017, and it therefore made much sense to present the results on the island. The paper presented, 
 is currently under review for a PowerTech conference.<br>
 Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'.
-<!--  
-<a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+
+<!-- 
+<> <a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+-->
 
 <br>
- -->
+
 
 ___
 
@@ -86,7 +88,7 @@ Equally important is to forecast, control and optimize the interactions of these
 
 <br>
 
-<!-- <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
+<b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
 I gave a talk at my department, summarizing my recent work with <a href="https://kpolsen.github.io/SIGAME_dev/"><font color="#660033">SÍGAME</font></a> and outlining on-going and future 
 research projects. Title: 'Making Sense of FIR Line Emission with Synthetic Observations'. 
 <a href="{{ site.url }}/pages/presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
@@ -177,7 +179,7 @@ Kevin Conklin and you can listen to the podcast here:
   <source src="presentations/Olsen_Conklin_2016.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
- -->
+-->
 
 <br>
 
