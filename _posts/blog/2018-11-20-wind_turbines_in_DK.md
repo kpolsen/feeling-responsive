@@ -6,7 +6,7 @@ teaser: "A quick and dirty python script to map all offshore and onshore wind tu
 header:
     image_fullwidth: "texture1.png"
 image:
-   thumb: "blog/2018-11-20/thumb.jpg"
+   thumb: "blog/2018-11-20/thumb.png"
 categories:
     - blog
 comments: true
