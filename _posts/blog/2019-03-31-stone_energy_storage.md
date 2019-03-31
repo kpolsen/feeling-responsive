@@ -52,9 +52,9 @@ agreed to give us the tour and answer questions about the findings so far and fu
 The current prototype contains "only" about five tons of rocks contained inside a round vault going into the ground, 
 where it is surrounded by insolating material.
 
-<img src="{{ site.urlimg }}/blog/2019-03-31/tour1.jpg" alt="" width="600">
-
 <img src="{{ site.urlimg }}/blog/2019-03-31/tour2.jpg" alt="" width="600">
+
+<img src="{{ site.urlimg }}/blog/2019-03-31/tour1.jpg" alt="" width="600">
 
 Once the testing on the prototype is over, a real larger-scale version will be made to demonstrate the idea. 
 It was a very interesting hour spent away from the desk, which opened my eyes to 
@@ -74,5 +74,5 @@ can run a conventional steam turbine and create electricity OR the hot air can b
 district heating. 
 
 
-[1] https://www.danskfjernvarme.dk/presse/fakta-om-fjernvarme <br>
-[2] https://www.dtu.dk/english/news/Nyhed?id=a7998add-10f4-4dd5-90c5-62b8946ce1e8 <br>
+[1] [https://www.danskfjernvarme.dk/presse/fakta-om-fjernvarme](https://www.danskfjernvarme.dk/presse/fakta-om-fjernvarme)<br>
+[2] [https://www.dtu.dk/english/news/Nyhed?id=a7998add-10f4-4dd5-90c5-62b8946ce1e8](https://www.dtu.dk/english/news/Nyhed?id=a7998add-10f4-4dd5-90c5-62b8946ce1e8) <br>
