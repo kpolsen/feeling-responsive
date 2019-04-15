@@ -55,6 +55,8 @@ some of the amazing science that goes on at SESE! Below are a couple of photos t
 Below are previous talks that I gave, and meetings I attended or plan to attend. 
 If you want the keynote/powerpoint version of any presentation (given in PDF here) please contact me!
 
+<!-- 
+
 ___
 
 ## 2019
@@ -103,7 +105,7 @@ I organized a workshop at Arizona State University, centered on the challenge of
 <br>
 
 
-<!-- 
+
 
 <b style="color: #006699">01-13-18: Conferences for Undergraduate Women in Physics (CUWiP)</b><br>
 I participated as invited speaker to the breakout session about "Hot Topics in Physics".<br> 
