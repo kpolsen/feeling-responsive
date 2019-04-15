@@ -140,6 +140,9 @@ I'm attending a meeting on galaxy evolution during the Epoch of Reionization.
 
 
 <br>
+
+
+<!-- 
 ___
 
 ## 2016
@@ -171,15 +174,7 @@ Kevin Conklin and you can listen to the podcast here:
 
 <audio controls="controls">
   <source type="audio/mp3" src="{{ site.url }}/pages/presentations/Olsen_Conklin_2016.mp3"></source>
-  <!-- <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p> -->
 </audio>
-<!-- 
-<audio controls>
-  <source src="presentations/Olsen_Conklin_2016.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
--->
 
 <br>
 
@@ -217,3 +212,5 @@ ISM: Modeling and observing<br>
 Bridging the Gap: Observations and Theory of Star Formation Meet on Large and Small Scales: A one week conference/workshop at the Keck Institute
 of Space Studies (KISS) to establish the goals that will enable progress in this field of astronomy.  <br>
 <a href="http://kiss.caltech.edu/new_website/programs/SF-FullDraft.v5c.pdf"><font color="#660033">Read the final report that I contributed to here.</font></a>
+
+-->
