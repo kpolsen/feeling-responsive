@@ -159,7 +159,7 @@ Attending with poster.
 
 <b style="color: #006699">05-10-16: Participating in SOFIA workshop, Tucson, AZ</b><br>
 A hands-on workshop on what you can do with (and how to write proposals for) 
-<a href="http://www.sofia.usra.edu/"<font color="#660033">The Stratospheric Observatory for Infrared Astronomy (SOFIA)</font></a>
+<a href="http://www.sofia.usra.edu/"><font color="#660033">The Stratospheric Observatory for Infrared Astronomy (SOFIA)</font></a>
 which is an amazing airborne observatory. 
 
 <br>
@@ -172,7 +172,7 @@ Kevin Conklin and you can listen to the podcast here:
 <audio controls="controls">
   <source type="audio/mp3" src="{{ site.url }}/pages/presentations/Olsen_Conklin_2016.mp3"></source>
   <!-- <source type="audio/ogg" src="filename.ogg"></source>
-  <!-- <p>Your browser does not support the audio element.</p> -->
+  <p>Your browser does not support the audio element.</p> -->
 </audio>
 <!-- 
 <audio controls>
