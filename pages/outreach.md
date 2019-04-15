@@ -102,6 +102,9 @@ I organized a workshop at Arizona State University, centered on the challenge of
 
 <br>
 
+
+<!-- 
+
 <b style="color: #006699">01-13-18: Conferences for Undergraduate Women in Physics (CUWiP)</b><br>
 I participated as invited speaker to the breakout session about "Hot Topics in Physics".<br> 
  <a href="">http://www.aps.org/programs/women/workshops/cuwip.cfm<font color="#660033">See the program here.</font></a> and download my <a href="{{ site.url }}/pages/presentations/CUWiP/hot_topic_2018.pdf"><font color="#660033">presentation slides in PDF format here</font></a>.
@@ -142,7 +145,6 @@ I'm attending a meeting on galaxy evolution during the Epoch of Reionization.
 <br>
 
 
-<!-- 
 ___
 
 ## 2016
