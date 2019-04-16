@@ -99,7 +99,6 @@ I organized a workshop at Arizona State University, centered on the challenge of
 <br>
 
 
-<!-- 
 
 <b style="color: #006699">01-13-18: Conferences for Undergraduate Women in Physics (CUWiP)</b><br>
 I participated as invited speaker to the breakout session about "Hot Topics in Physics".<br> 
@@ -164,6 +163,8 @@ A hands-on workshop on what you can do with (and how to write proposals for)
 which is an amazing airborne observatory. 
 
 <br>
+
+<!-- 
 
 <b style="color: #006699">04-22-16: Gave an interview for ASU connections</b><br>
 On my work and daily life as a postdoc at SESE! I had a great time talking to the host, 
