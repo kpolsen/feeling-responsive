@@ -68,12 +68,8 @@ We use a very valuable data set taken on Bornholm since 2017, and it therefore m
 is currently under review for a PowerTech conference.<br>
 Title: 'Analysing Power Consumption and Generation on Bornholm: Best Energy Storage Options for High Shares of Renewables'.
 
-<!-- 
-<> <a href="{{ site.url }}/pages/presentations/EPIMES_feb_18_2019.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
--->
 
 <br>
-
 
 ___
 
