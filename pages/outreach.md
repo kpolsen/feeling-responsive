@@ -164,7 +164,7 @@ which is an amazing airborne observatory.
 
 <br>
 
-<!-- 
+
 
 <b style="color: #006699">04-22-16: Gave an interview for ASU connections</b><br>
 On my work and daily life as a postdoc at SESE! I had a great time talking to the host, 
@@ -212,4 +212,3 @@ Bridging the Gap: Observations and Theory of Star Formation Meet on Large and Sm
 of Space Studies (KISS) to establish the goals that will enable progress in this field of astronomy.  <br>
 <a href="http://kiss.caltech.edu/new_website/programs/SF-FullDraft.v5c.pdf"><font color="#660033">Read the final report that I contributed to here.</font></a>
 
--->
