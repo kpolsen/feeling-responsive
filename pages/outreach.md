@@ -136,10 +136,7 @@ forming a paper close to submission.
 I'm attending a meeting on galaxy evolution during the Epoch of Reionization.
 <a href="http://dawnofgalaxies2017.at/index.php/program"><font color="#660033">See a program here</font></a>
 
-
 <br>
-
-
 ___
 
 ## 2016
@@ -163,8 +160,6 @@ A hands-on workshop on what you can do with (and how to write proposals for)
 which is an amazing airborne observatory. 
 
 <br>
-
-
 
 <b style="color: #006699">04-22-16: Gave an interview for ASU connections</b><br>
 On my work and daily life as a postdoc at SESE! I had a great time talking to the host, 
