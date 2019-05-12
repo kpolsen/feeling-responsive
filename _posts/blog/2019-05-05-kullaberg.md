@@ -15,7 +15,7 @@ gallery:
       caption: Cute hotel in Mölle, not that we stayed there.
     - image_url: blog/2019-05-05/reservat.JPG
       caption: Entering the natural reserve. 
-    - image_url: blog/2019-05-05/view.JPG
+    - image_url: blog/2019-05-05/view.jpg
       caption: Stopping to check out the view.
     - image_url: blog/2019-05-05/kullensfyr1.JPG
       caption: We spot the lighthouse!
@@ -32,7 +32,7 @@ gallery:
 ---
 
 ### Taking the electric ferry from Denmark to Sweden
-
+Getting to Kullaberg from Copenhagen was extremely easy. We rented a car in the morning, drove up to Helsingør and took the *electric* ferry (https://www.forsea.dk/) to Helinsborg. The ferry only takes 15 min and goes every 20 min!
 
 
 ### The hike
