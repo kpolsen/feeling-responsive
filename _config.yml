@@ -17,7 +17,7 @@ slogan: 'Karen Pardos Olsen'
 description: 'Homepage describing research projects in renewable energy and astronomy, as well as how to grow tomatoes.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>, edited by <a href=https://github.com/kpolsen"">kpolsen</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>, edited by <a href=https://github.com/kpolsen>kpolsen</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
