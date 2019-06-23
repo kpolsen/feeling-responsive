@@ -162,3 +162,21 @@ a bit of sugar and olive oil<br>
 - 2 hrs in oven at slightly more than room temp<br>
 - with toppings: 250 Celcius (or as high as possible) for 10 min or so.<br> 
 
+
+### Pizza dough
+Soft wheat tortillas<br>
+1 cups (2.5 dl) of black rice <br>
+3 small sweet potatos <br>
+2 red onions <br>
+3 dl green beans, in 2cm pieces <br>
+1 dl vegan mayonnaise <br>
+1 lemon <br>
+about 2 tsp curry powder <br>
+- cook the black rice<br>
+- cut the potatoes in thin, long (3cm) pieces and leave in the oven at 200C for 20 min or until soft<br>
+- cut the red onion in thin half circles, fry in oil until soft and sweet<br>
+- boil the beans<br>
+- mix the cream: mayo + lemon juice + curry powder + salt + pepper (until you like the taste!) <br>
+- mix all of the above in a big bowl<br>
+- heat the tortillas, e.g. in microwave, and fill with the rice mix<br>
+- enjoy!!<br>
