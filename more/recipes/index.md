@@ -169,8 +169,8 @@ Soft wheat tortillas<br>
 1 cups (2.5 dl) of black rice <br>
 3 small sweet potatos <br>
 2 red onions <br>
-3 dl green beans, in 2cm pieces <br>
-1 dl vegan mayonnaise <br>
+1.5 cups (3 dl) green beans, in 2cm pieces <br>
+0.5 cups (1 dl) vegan mayonnaise <br>
 1 lemon <br>
 about 2 tsp curry powder <br>
 - cook the black rice<br>
