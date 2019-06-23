@@ -73,6 +73,7 @@ header:
 
 ## Desserts
 [Vegan chocolate mousse](https://www.youtube.com/watch?v=UNtx6HUum2U)
+[Vegan chocolate cake](https://www.sweetestmenu.com/eggless-chocolate-cake-vegan/)
 
 ## Cakes
 [Bizcocho de leche condensada con limón](http://www.dulcesentimiento.com/bizcocho-leche-condensada-limon/)
@@ -163,7 +164,7 @@ a bit of sugar and olive oil<br>
 - with toppings: 250 Celcius (or as high as possible) for 10 min or so.<br> 
 
 
-### Pizza dough
+### Tortilla wraps with black rice and sweet potato
 Soft wheat tortillas<br>
 1 cups (2.5 dl) of black rice <br>
 3 small sweet potatos <br>
