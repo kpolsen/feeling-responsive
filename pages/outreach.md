@@ -60,6 +60,20 @@ ___
 ## 2019
 <br>
 
+<b style="color: #006699">:08-12-16: ICAE2019, Västerås, Sweden</b><br>
+At the <a href="http://www.applied-energy.org/icae2019/"><font color="#660033">International Conference on Applied Energy</font></a>, I presented a conference paper that I submitted back in May and which was accepted together with roughly 800 others.
+
+<b style="color: #006699">:06-09-19: DAWN Summit, Copenhagen, Denmark</b><br>
+I was invited to join the yearly summit at the <a href="https://dawn.nbi.ku.dk/"><font color="#660033">Cosmic Dawn Center</font></a>, where I gave a 15 min talk on ongoing an future SIGAME projects.
+
+<b style="color: #006699">06-17-19 to 06-21-19: Zoom-In and Out: From the Interstellar Medium to the Large Scale Structure of the Universe</b><br>
+I was invited to join the 4-week NORDITA workshop devoted to the theoretical and observational studies of the interstellar medium of galaxies across cosmic time. I attended the 3rd week, and gave a 40 min presentation with the title "Reading between the lines - The benefits of modeling more than one emission line". <a href="{{ site.url }}/pages/presentations/NORDITA_June_19.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>.
+
+<b style="color: #006699">05-24-19: Visiting 8th graders at Mølleholmskolen, Taastrup, Denmark</b><br>
+For one day, I took over the classroom at Mølleholmskolen to activate curiosity in the students for a scientific topic - in this case, using Hydrogen as an energy storage in tomorrow's power and transport sector. This was part of the program "Engineer the Future", which also provides a course I took in April (see below).
+
+<b style="color: #006699">04-04-19: Course "Book an expert" for primary and high schools</b><br>
+I attended a 1-day workshop organized by <a href="https://ekspert.engineerthefuture.dk/"><font color="#660033">Engineer the Future</font></a>, aimed at increasing the interest for STEM among young people in Denmark. I learned different ways to activate an audience (of all ages) and how to build a catching storyline for a presentation.
 
 <b style="color: #006699">02-18-19: Meeting at Bornholms Energi & Forsyning (BEOF)</b><br>
 As a way of disseminating my first results in the research area of renewable energy, I traveled to the island of Bornholm and gave a talk 
@@ -87,7 +101,7 @@ Equally important is to forecast, control and optimize the interactions of these
 <b style="color: #006699">04-20-18: SESE Cosmology seminar</b><br>
 I gave a talk at my department, summarizing my recent work with <a href="https://kpolsen.github.io/SIGAME_dev/"><font color="#660033">SÍGAME</font></a> and outlining on-going and future 
 research projects. Title: 'Making Sense of FIR Line Emission with Synthetic Observations'. 
-<a href="{{ site.url }}/pages/presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>
+<a href="{{ site.url }}/pages/presentations/SESE_seminar_short_version.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>.
 
 <br>
 
