@@ -9,13 +9,22 @@ header:
 permalink: "/research/"
 ---
 
-My trade is research, and my work more than often takes place in the gap betweeen observations and theory. 
-In that gap model predictions tell us what to expect, while observations have the power to 
+My trade is research, and my work more often than not takes place in the gap betweeen observations and theory. 
+In that gap, we have model predictions to tell us what to expect, while observations have the power to 
 support or discard a theoretical model. 
 
-At the time of writing, I have recently finished a 3-yr postdoc in astronomy at Arizona State University 
-in Phoenix right at the heart of the beautiful Sonoran desert. 
-However, I'm off to try out a postdoc in renewable energy for a year, so my research projects are split in two topics:
+My formal education includes a PhD in astrophysics from the University of Copenhagen, but I have since expanded into 
+areas of research dealing with renewable energy.
+
+At the time of writing, I have been working for little more than a year on energy system operation and management as a 
+postdoc scientist at the Technical University of Denmark. 
+Before that, I did my first postdoc in astronomy at Arizona State University 
+in Phoenix right at the heart of the beautiful Sonoran desert.
+
+However, this Fall I plan to return to the far-away galaxies, picking up a grant from NASA and working from 
+Steward Observatory at the University of Arizona in Tucson. 
+
+This strange career path means that my research projects are split into two topics:
 
 <a class="radius button small" href="{{ site.url }}/research/astro/">Read about my projects in astronomy›</a>
 
