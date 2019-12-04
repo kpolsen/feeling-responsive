@@ -87,4 +87,6 @@ I named it windpype (with 'py' as in python, because misspelling is in):
 
 
 
+<h2 style="color: #006699">Publications</h2>
 
+2019: <a href="https://orbit.dtu.dk/en/publications/data-driven-flexibility-requirements-for-current-and-future-scena">Data-driven flexibility requirements for current and future scenarios with high penetration of renewables (Proceedings of International Conference on Applied Energy 2019 [Paper ID: 0341]).</a>

@@ -95,6 +95,8 @@ typical ISM temperatures and densities. <br><br>
 
 2016: <a href="https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3306O/abstract">SImulator of GAlaxy Millimetre/submillimetre Emission (SÍGAME): CO emission from massive z = 2 main-sequence galaxies (MNRAS 457 3, 2016)</a>
 
+2015: <a href="https://ui.adsabs.harvard.edu/abs/2015arXiv150902991O/abstract">Observing and Simulating Galaxy Evolution - from X-ray to Millimeter Wavelengths (PhD thesis; eprint arXiv:1509.02991)</a>
+
 2015: <a href="https://ui.adsabs.harvard.edu/abs/2015ApJ...814...76O/abstract">SImulator of GAlaxy Millimeter/Submillimeter Emission (SíGAME): The [CII]-SFR Relationship of Massive z = 2 Main Sequence Galaxies (ApJ 814 1, 2015)</a>
 
 2013: <a href="https://ui.adsabs.harvard.edu/abs/2013ApJ...764....4O/abstract">Measuring the AGN fraction among star-forming and quiescent galaxies at z~2 (ApJ 764 4, 2013)</a>
