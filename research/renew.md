@@ -9,7 +9,9 @@ header:
 permalink: "/research/renew/"
 ---
 
-I currently work as postdoctoral research at the Center for Electric Power and Energy ([CEE or Elektro](http://www.cee.elektro.dtu.dk/)) at the Danish Technical University (DTU). My research focuses on the development and improvement of [integrated energy infrastructures](http://www.cee.elektro.dtu.dk/research/Interconnected-energy-system/Integrated-energy-infrastructures) needed to handle the ever-increasing penetration of renewable energy in power systems. 
+Last edited: Jan 2 2020<br>
+
+I worked as postdoctoral research at the Center for Electric Power and Energy ([CEE or Elektro](http://www.cee.elektro.dtu.dk/)) at the Danish Technical University (DTU) from July 2018 to January 2020. My research focused on the development and improvement of [integrated energy infrastructures](http://www.cee.elektro.dtu.dk/research/Interconnected-energy-system/Integrated-energy-infrastructures) needed to handle the ever-increasing penetration of renewable energy in power systems. 
 
 <h2 style="color: #006699">The green "mismatch"</h2>
 
@@ -54,11 +56,11 @@ Wind speeds fluctuate and a whole line of research (and business) is currently d
 Even with prefect predictions of how the wind (and hence the wind power) is going to vary, 
 we cannot fully take advantage of the wind power produced if the power system is not designed and planned in a flexible manner. 
 
-I work in a group at DTU that searches for ways to reshape and store wind power in a multi-energy system by making connections to e.g. the hot water and gas sectors. 
-For that work, I am involved in the EPIMES project: [Enhancing wind Power Integration through optimal use of cross-sectoral flexibility in an integrated Multi-Energy System](http://www.dtu.dk/english/news/nyhed?id=1e387552-3d06-4f2c-ab2b-f1b602e8e27a), a project which is a collaboration between DTU CEE and Chinese partners, including Tsinghua University in Beijing. 
+I worked in a group at DTU that searches for ways to reshape and store wind power in a multi-energy system by making connections to e.g. the hot water and gas sectors. 
+For that work, I was involved in the EPIMES project: [Enhancing wind Power Integration through optimal use of cross-sectoral flexibility in an integrated Multi-Energy System](http://www.dtu.dk/english/news/nyhed?id=1e387552-3d06-4f2c-ab2b-f1b602e8e27a), a project which is a collaboration between DTU CEE and Chinese partners, including Tsinghua University in Beijing. 
 On the Danish side, much work has gone into studying the flexibility options in a normal residential house, where energy can be stored as heat and smart planning using Model Predictive Control can ensure that heating takes place mostly at times with low electricity prices ([see a recent paper on this here](http://orbit.dtu.dk/files/139062795/WJET_2017101016173894.pdf)). 
 
-I use different tools to analyze the residual load (see above definition) with the aim of setting requirements for ES options now and in the future. 
+I used different tools to analyze the residual load (see above definition) with the aim of setting requirements for ES options now and in the future. 
 A great tool for the analysis of fluctuating data, is Fourier analysis which I have exploited in order to separate fluctuations at different frequencies. 
 Below is a slightly stuffed figure exemplifying the methods for two weeks in 2017. 
 The top panel shows hourly share of renewables, with time periods of low (<20%) and high (>80%) hourly share highlighted in red and green. 
@@ -90,3 +92,5 @@ I named it windpype (with 'py' as in python, because misspelling is in):
 <h2 style="color: #006699">Publications</h2>
 
 2019: <a href="https://orbit.dtu.dk/en/publications/data-driven-flexibility-requirements-for-current-and-future-scena">Data-driven flexibility requirements for current and future scenarios with high penetration of renewables (Proceedings of International Conference on Applied Energy 2019 [Paper ID: 0341]).</a>
+
+
