@@ -19,7 +19,8 @@ My study galaxy evolution with a focus on modeling the emission from the ISM to 
 far-infrared from galaxies and make predictions for future observations. 
 Here's an example of a flux map in [CII] fine structure line at 158 micron of a model galaxy:
 
-![Synthetic emission map of a model galaxy](sigame1.png)
+![](sigame1.png)
+**Figure:** Synthetic emission map of a model galaxy.
 
 I started developing SÍGAME during my PhD at the Dark Cosmology Centre, a Center of Excellence in Denmark. 
 Over the years, it grew into a mature software tool, rewritten in python and applicable to many cases of 
