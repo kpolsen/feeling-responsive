@@ -11,11 +11,27 @@ permalink: "/research/astro/"
 
 Last edited: Jan 2 2020<br>
 
-<h2 style="color: #006699">SÍGAME</h2>
+<h2 style="color: #006699">Research interests in astronomy</h2>
+Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
+Emission lines in radio; Radio interferometry; Galaxy simulations</i> <br>
 
 How did galaxies such as the Milky Way form? Astronomers can observe glimpses of the Universe at different timestamps since the Big Bang, but putting those snapshots together to understand galaxy evolution is no easy task! What we do know, is that the interstellar medium (or ISM) plays a crucial role in determining when and how many stars are formed.
 
-My study galaxy evolution with a focus on modeling the emission from the ISM to improve on how we interpret observations of the ISM in galaxies at all epochs of the Universe. In order to do so, I have developed a software tool called SÍGAME which is a module written in Python and designed to model nebular line emission in the 
+My study galaxy evolution with a focus on modeling the emission from the ISM to improve on how we interpret observations of the ISM in galaxies at all epochs of the Universe. 
+By observing a portion of ISM in different wavelengths, different images emerge, 
+and astronomers can extract important information from each:<br><br>
+
+![](ism.jpg)
+**Figure:** The interstellar medium (ISM)
+
+The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
+where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
+typical ISM temperatures and densities. <br><br>
+
+
+<h2 style="color: #006699">SÍGAME</h2>
+
+In order to study the ISM, I have developed a software tool called SÍGAME which is a module written in Python and designed to model nebular line emission in the 
 far-infrared from galaxies and make predictions for future observations. 
 Here's an example of a flux map in [CII] fine structure line at 158 micron of a model galaxy:
 
@@ -36,8 +52,8 @@ at Arizona State University (ASU), I studied galaxy evolution during the early d
 
 By applying SÍGAME to cosmological hydrodynamic simulations of galaxies at redshift 6, my team and I made predictions for the relation between different line luminosities in the far-infrared and the star formation rate (SFR) of galaxies. We also described the origin of the [CII] emission, as coming mostly from molecular clouds, and secondly from diffuse ionized gas. Below is a plot showing the importance of gas metallicity on the [CII]-SFR relation with observations at redshifts > 5 in grey for comparison [5,6]:
 
-![The [CII]-SFR relation for a sample of simulated galaxies at redshift around 6 (open circles), with symbols in cyan showing the effect of boosting metallicities by a factor of 3 in all galaxies.](CII_SFR.png)
-
+![](CII_SFR.png)
+**Figure:** The [CII]-SFR relation for a sample of simulated galaxies at redshift around 6 (open circles), with symbols in cyan showing the effect of boosting metallicities by a factor of 3 in all galaxies.
 
 At ASU, my mentors were [Sangeeta Malhotra](http://malhotra.asu.edu/Welcome.html) and [Rogier Windhorst](https://en.wikipedia.org/wiki/Rogier_Windhorst). 
 
@@ -61,7 +77,8 @@ helped in the writing of the paper.
 
 <a class="https://walk2018.weebly.com/">Go to the official website of the conference›</a>
 
-![Me and the group of participants at Walking the Line 2018](group.jpg)
+![](group.jpg)
+**Figure:** Me and the group of participants at Walking the Line 2018
 
 <h2 style="color: #006699">X-ray imaging of galaxies</h2>
 
@@ -79,27 +96,13 @@ hardness ratio (on the x-axis) are used to identify luminous AGN (filled symbols
 potential low-luminosity AGN (open symbols). Stacks of non-detections are shown with squares 
 and blue and red colors signify star-forming and "quenched" galaxies, respectively:
 
-![Classification scheme to identify AGN](agn1.png)
+![](agn1.png)
+**Figure:** Classification scheme to identify AGN
 
 We find in the paper that the low-luminosity AGN population constitutes a significant part of both the 
 star-forming and the "quenched" galaxies at redshifts around 2. 
 See my 2013 paper below for more details on the technique and results.
 
-<h2 style="color: #006699">Research interests in astronomy</h2>
-Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
-Emission lines in radio; Radio interferometry; Galaxy simulations</i> <br>
-
-My research focuses on the Interstellar Medium (ISM) of galaxies, i.e. that gas out of which stars are formed. 
-The amount and properties of the ISM play a crucial role for the evolution of a galaxy, yet for galaxies at 
-high redshifts both are poorly determined by observations. 
-By observing a portion of ISM in different wavelengths, different images emerge, 
-and astronomers can extract important information from each:<br><br>
-
-![The interstellar medium (ISM)](ism.jpg)
-
-The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
-where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
-typical ISM temperatures and densities. <br><br>
 
 <h2 style="color: #006699">Publications</h2>
 
