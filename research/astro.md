@@ -15,14 +15,14 @@ Last edited: Jan 2 2020<br>
 Keywords: <i>Evolution of galaxies; Epoch of re-ionization; Interstellar Medium, 
 Emission lines in radio; Radio interferometry; Galaxy simulations</i> <br>
 
-How did galaxies such as the Milky Way form? Astronomers can observe glimpses of the Universe at different timestamps since the Big Bang, but putting those snapshots together to understand galaxy evolution is no easy task! What we do know, is that the interstellar medium (or ISM) plays a crucial role in determining when and how many stars are formed.
+How did galaxies such as the Milky Way form? Astronomers can observe glimpses of the Universe at different timestamps since the Big Bang, but putting those snapshots together to understand galaxy evolution is no easy task! What we *do* know, is that the interstellar medium (or ISM) plays a crucial role in determining when and how many stars are formed in a galaxy.
 
-My study galaxy evolution with a focus on modeling the emission from the ISM to improve on how we interpret observations of the ISM in galaxies at all epochs of the Universe. 
-By observing a portion of ISM in different wavelengths, different images emerge, 
-and astronomers can extract important information from each:<br><br>
+I study galaxy evolution with a focus on modeling the emission from the ISM to improve the way we interpret observations of the ISM in galaxies at all epochs of the Universe. 
+By observing a portion of the ISM in different wavelengths, different images emerge, 
+and astronomers can extract important information from each ISM phase, from molecular to ionized:<br><br>
 
 ![](ism.jpg)
-**Figure:** The interstellar medium (ISM)
+**Figure:** The interstellar medium (ISM).
 
 The best technique for observing the ISM is to look for emission lines in the infrared (left bottom panel above), 
 where rotational lines of molecules and fine structure lines of atoms and ions are easily excited at 
@@ -39,18 +39,18 @@ Here's an example of a flux map in [CII] fine structure line at 158 micron of a 
 **Figure:** Synthetic emission map of a model galaxy.
 
 I started developing SÍGAME during my PhD at the Dark Cosmology Centre, a Center of Excellence in Denmark. 
-Over the years, it grew into a mature software tool, rewritten in python and applicable to many cases of 
+Over the years, it has grown into a mature software tool written in python and applicable to many cases of 
 galaxy studies. 
 I have led three first-author publications on SÍGAME and enjoyed working with team members from around the world, 
-and the software tool is now available for download via GitHub. Below is a link to learn more about SÍGAME, followed by descriptions of my main research projects. See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions for me.
+and the software tool is now available for download via GitHub. Below is a link to learn more about SÍGAME, followed by descriptions of my main research projects. See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions about SÍGAME and its use.
 
 <a class="radius button small" href="{{ site.url }}/SIGAME/index.html">Learn more about and download SÍGAME here›</a>
 
 <h2 style="color: #006699">ISM in the Early Universe</h2>
 During my time as post-doctoral researcher at the [School of Earth and Space Exploration](https://sese.asu.edu/) (SESE)
-at Arizona State University (ASU), I studied galaxy evolution during the early days of the Universe, at a redshift of 6 which means about about 13 billion years ago (!). 
+at Arizona State University (ASU), I studied galaxy evolution during the early days of the Universe, at a redshift of 6 which means about 13 billion years ago (!). 
 
-By applying SÍGAME to cosmological hydrodynamic simulations of galaxies at redshift 6, my team and I made predictions for the relation between different line luminosities in the far-infrared and the star formation rate (SFR) of galaxies. We also described the origin of the [CII] emission, as coming mostly from molecular clouds, and secondly from diffuse ionized gas. Below is a plot showing the importance of gas metallicity on the [CII]-SFR relation with observations at redshifts > 5 in grey for comparison [5,6]:
+By applying SÍGAME to cosmological hydrodynamic simulations of galaxies at redshift 6, my team and I made predictions for the relation between the star formation rate (SFR) of galaxies and different line luminosities in the far-infrared. We also described the origin of the [CII] emission, as coming mostly from molecular clouds, and secondly from diffuse ionized gas. Below is a plot showing the importance of gas metallicity on the [CII]-SFR relation with observations at redshifts > 5 in grey for comparison [5,6]:
 
 ![](CII_SFR.png)
 **Figure:** The [CII]-SFR relation for a sample of simulated galaxies at redshift around 6 (open circles), with symbols in cyan showing the effect of boosting metallicities by a factor of 3 in all galaxies.
@@ -78,7 +78,7 @@ helped in the writing of the paper.
 <a class="https://walk2018.weebly.com/">Go to the official website of the conference›</a>
 
 ![](group.jpg)
-**Figure:** Me and the group of participants at Walking the Line 2018
+**Figure:** Me and the group of participants at Walking the Line 2018.
 
 <h2 style="color: #006699">X-ray imaging of galaxies</h2>
 
@@ -97,7 +97,7 @@ potential low-luminosity AGN (open symbols). Stacks of non-detections are shown 
 and blue and red colors signify star-forming and "quenched" galaxies, respectively:
 
 ![](agn1.png)
-**Figure:** Classification scheme to identify AGN
+**Figure:** Classification scheme to identify AGN.
 
 We find in the paper that the low-luminosity AGN population constitutes a significant part of both the 
 star-forming and the "quenched" galaxies at redshifts around 2. 
