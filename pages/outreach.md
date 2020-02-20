@@ -57,6 +57,15 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 
 ___
 
+## 2020
+<br>
+
+<b style="color: #006699">:02-19-20: SIMBA Collaboration Workshop, New York, US</b><br>
+I was invited to talk at the <a href="http://www.applied-energy.org/icae2019/"><font color="#660033">SIMBA Collaboration Workshop</font></a>, about my <a href="https://kpolsen.github.io/SIGAME/"><font color="#660033">SIGAME module</font></a> that simulates line emission in the far-infrared for galaxies at different redshifts using te SIMBA cosmological hydrodynamical simulations.
+<a href="{{ site.url }}/pages/presentations/SIMBA_Feb_2020.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>.
+
+
+
 ## 2019
 <br>
 
