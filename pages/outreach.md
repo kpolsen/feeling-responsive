@@ -60,19 +60,21 @@ ___
 ## 2020
 <br>
 
-<b style="color: #006699">:02-19-20: SIMBA Collaboration Workshop, New York, US</b><br>
+<b style="color: #006699">02-19-20: SIMBA Collaboration Workshop, New York, US</b><br>
 I was invited to talk at the <a href="http://www.applied-energy.org/icae2019/"><font color="#660033">SIMBA Collaboration Workshop</font></a>, about my <a href="https://kpolsen.github.io/SIGAME/"><font color="#660033">SIGAME module</font></a> that simulates line emission in the far-infrared for galaxies at different redshifts using te SIMBA cosmological hydrodynamical simulations.
 <a href="{{ site.url }}/pages/presentations/SIMBA_Feb_2020.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>.
 
-
+<b style="color: #006699">02-19-20: SIMBA Collaboration Workshop, New York, US</b><br>
+I was invited to talk at the <a href="http://www.applied-energy.org/icae2019/"><font color="#660033">SIMBA Collaboration Workshop</font></a>, about my <a href="https://kpolsen.github.io/SIGAME/"><font color="#660033">SIGAME module</font></a> that simulates line emission in the far-infrared for galaxies at different redshifts using te SIMBA cosmological hydrodynamical simulations.
+<a href="{{ site.url }}/pages/presentations/SIMBA_Feb_2020.pdf"><font color="#660033">View and download a PDF version of the talk here</font></a>.
 
 ## 2019
 <br>
 
-<b style="color: #006699">:08-12-16: ICAE2019, Västerås, Sweden</b><br>
+<b style="color: #006699">08-12-16: ICAE2019, Västerås, Sweden</b><br>
 At the <a href="http://www.applied-energy.org/icae2019/"><font color="#660033">International Conference on Applied Energy</font></a>, I presented a conference paper that I submitted back in May and which was accepted together with roughly 800 others.
 
-<b style="color: #006699">:06-09-19: DAWN Summit, Copenhagen, Denmark</b><br>
+<b style="color: #006699">06-09-19: DAWN Summit, Copenhagen, Denmark</b><br>
 I was invited to join the yearly summit at the <a href="https://dawn.nbi.ku.dk/"><font color="#660033">Cosmic Dawn Center</font></a>, where I gave a 15 min talk on ongoing an future SIGAME projects.
 
 <b style="color: #006699">06-17-19 to 06-21-19: Zoom-In and Out: From the Interstellar Medium to the Large Scale Structure of the Universe</b><br>
