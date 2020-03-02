@@ -31,7 +31,7 @@
                     <PhotonPacketOptions minWeightReduction="1e4" minScattEvents="0" pathLengthBias="0.5"/>
                 </photonPacketOptions>
                 <dustEmissionOptions type="DustEmissionOptions">
-                    <DustEmissionOptions dustEmissionType="Equilibrium" storeEmissionRadiationField="false" secondaryPacketsMultiplier="1" spatialBias="0.5" wavelengthBias="0.5">
+                    <DustEmissionOptions dustEmissionType="Stochastic" storeEmissionRadiationField="false" secondaryPacketsMultiplier="1" spatialBias="0.5" wavelengthBias="0.5">
                         <cellLibrary type="SpatialCellLibrary">
                             <AllCellsLibrary/>
                         </cellLibrary>
