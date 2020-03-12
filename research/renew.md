@@ -91,6 +91,10 @@ I named it windpype (with 'py' as in python, because misspelling is in):
 
 <h2 style="color: #006699">Publications</h2>
 
+2020: Hybrid Solar PV and Wind Energy Scenarios for Reduced Carbon Footprint of a Large-scale Agricultural Business.
+
+2020: <a href="https://doi.org/10.1016/j.apenergy.2020.114702">Multi-timescale data-driven method identifying flexibility requirements for scenarios with high penetration of renewables (extended version of the conference paper below).</a>
+
 2019: <a href="https://orbit.dtu.dk/en/publications/data-driven-flexibility-requirements-for-current-and-future-scena">Data-driven flexibility requirements for current and future scenarios with high penetration of renewables (Proceedings of International Conference on Applied Energy 2019 [Paper ID: 0341]).</a>
 
 
