@@ -11,7 +11,7 @@
         <sourceSystem type="SourceSystem">
             <SourceSystem minWavelength="0.09 micron" maxWavelength="160 micron" wavelengths="0.55 micron" sourceBias="0.5">
                 <sources type="Source">
-                    <ParticleSource filename="star.dat" importVelocity="false" useColumns="" sourceWeight="1" wavelengthBias="0.5">
+                    <ParticleSource filename="G0_star.dat" importVelocity="false" useColumns="" sourceWeight="1" wavelengthBias="0.5">
                         <smoothingKernel type="SmoothingKernel">
                             <CubicSplineSmoothingKernel/>
                         </smoothingKernel>
@@ -47,7 +47,7 @@
                     </DustEmissionOptions>
                 </dustEmissionOptions>
                 <media type="Medium">
-                    <ParticleMedium filename="gas.dat" massFraction="0.5" importMetallicity="true" importTemperature="false" maxTemperature="0 K" importVelocity="false" importVariableMixParams="false" useColumns="">
+                    <ParticleMedium filename="G0_gas.dat" massFraction="0.5" importMetallicity="true" importTemperature="false" maxTemperature="0 K" importVelocity="false" importVariableMixParams="false" useColumns="">
                         <smoothingKernel type="SmoothingKernel">
                             <CubicSplineSmoothingKernel/>
                         </smoothingKernel>
