@@ -30,7 +30,7 @@ On April 4 2019 I attended a 1-day workshop organized by <a href="https://eksper
 
 <br>
 
-<b style="color: #006699">03-14-18 to 03-16-18: Walking the Line 2018</b><br>
+## Organizing a workshop: Walking the line (March 14-16 2018)
 I organized a workshop at Arizona State University, centered on the challenge of modeling line emission in galaxies near and far. This workshop brought together experts as well as students in the field for 3 days of talks and focused discussion sessions.<br> 
  <a href="https://walk2018.weebly.com/"><font color="#660033">See website with full program and list of participants.</font></a><br>
  <a href="https://zenodo.org/communities/walk2018/"><font color="#660033">See this community site at zenodo.org for slides and recordings of talks.</font></a>
@@ -71,3 +71,4 @@ some of the amazing science that goes on at SESE! Below are a couple of photos t
 <br>
 <img src="{{ site.url }}/pages/presentations/p32.jpg" alt="Me explaining my research" width="300">
 
+For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.

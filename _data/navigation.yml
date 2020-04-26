@@ -15,6 +15,10 @@
   url: "/resume/"
   side: left
 
+- title: "Talks"
+  url: "/talks/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: left
