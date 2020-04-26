@@ -9,7 +9,6 @@ header:
 permalink: "/talks/"
 ---
 
-## Talks, meetings and interviews
 
 Below are previous talks that I gave, and meetings I attended or plan to attend. 
 If you want the keynote/powerpoint version of any presentation (given in PDF here) please contact me!

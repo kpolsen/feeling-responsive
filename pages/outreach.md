@@ -9,6 +9,8 @@ header:
 permalink: "/outreach/"
 ---
 
+(For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.)
+
 ## Co-chair of Tucson Women in Astronomy (TWA)
 As of April 2020 I am co-chairing the <a href="https://www.as.arizona.edu/tucson-women-astronomy"><font color="#660033">TWA group at Steward Observatory</font></a>. 
 This is a group consisting presently of mainly women, but open to any gender minorities in STEM (science, technology, engineering, and mathematics). 
@@ -71,4 +73,3 @@ some of the amazing science that goes on at SESE! Below are a couple of photos t
 <br>
 <img src="{{ site.url }}/pages/presentations/p32.jpg" alt="Me explaining my research" width="300">
 
-For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.
