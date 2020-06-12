@@ -106,6 +106,8 @@ See my 2013 paper below for more details on the technique and results.
 
 <h2 style="color: #006699">Publications</h2>
 
+[8] 2020: <a href=https://arxiv.org/abs/2004.11912">Predictions of the L[CII] -- SFR and [CII] Luminosity Function at the Epoch of Reionization, submitted to ApJ)</a>
+
 [7] 2018: <a href="http://www.mdpi.com/2075-4434/6/4/100/htm">Challenges and Techniques for Simulating Line Emission (MDPI Galaxies 6(4), 100, 2018)</a>
 
 [6] 2018: <a href="https://ui.adsabs.harvard.edu/abs/2018ApJ...857..148O/abstract">Erratum: "SÍGAME Simulations of the [CII], [OI], and [OIII] Line Emission from Star-forming Galaxies at z ~ 6" (ApJ 857 2, 2018)</a>
