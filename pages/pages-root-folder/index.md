@@ -11,7 +11,7 @@ widget1:
   title: "Outreach"
   url: 'http://kpolsen.github.io/outreach/'
   image: outreach_3884_2800.jpg
-  text: 'Talks and presentations from different events.'
+  text: 'Organizational work, talks and presentations.'
 widget2:
   title: "Volunteer work"
   url: 'https://kpolsen.github.io/volun/'
