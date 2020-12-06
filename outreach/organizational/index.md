@@ -1,20 +1,28 @@
 ---
 layout: page
 show_meta: false
-title: "Outreach"
+title: "Organizational Work"
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "outreach_3884_2800.jpg"
-permalink: "/outreach/"
+permalink: "/outreach/organizational/"
 ---
 
 (For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.)
 
-## Co-chair of Tucson Women in Astronomy (TWA)
-As of April 2020 I am co-chairing the <a href="https://www.as.arizona.edu/tucson-women-astronomy"><font color="#660033">TWA group at Steward Observatory</font></a>. 
-This is a group consisting presently of mainly women, but open to any gender minorities in STEM (science, technology, engineering, and mathematics). 
-We use the group to socialize, network and discuss challenges and opportunities that may arise when working in STEM as a gender minority. 
+## Co-chair of Gender Minorities at Steward (GEMS)
+As of April 2020 I am co-chairing the <a href="https://www.as.arizona.edu/gems-groupy"><font color="#660033">GEMS group at Steward Observatory</font></a>. 
+This is a group that works towards raising awareness around and promote gender equality in science, technology, engineering and mathematics (STEM). People of all genders, who are interested in improving gender equality in the field of Astronomy, are welcome, and in particular those who identify as gender minorities (e.g., female, transgender, or non-binary). 
+We use the group to socialize, network and discuss challenges and opportunities that may arise when working in STEM as a gender minority, and my main duty is to invite and organize meetings with colloquium speakers.
+
+<br>
+
+## Organizer of Galaxy Crawl talk series (2020-present)
+At Steward Observatory (University of Arizona) I organize and host a virtual talk series dedicated towards galaxy evolution theory. 
+I started the sessions in March when lock-down forced everyone to work from home and it's been building momentum since then, as a place where we feel less isolated and can share our research results. 
+The main purpose is to give students and postdocs in our groups exposure to other institutes now that conferences are cancelled or going online, but we also have a wide audience from other institutions calling in. 
+Talks are anything from 15 to 30 min long and can contain either published work or work in progress that needs comments or both! 
 
 <br>
 

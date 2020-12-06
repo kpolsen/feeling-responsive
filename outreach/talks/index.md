@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "texture1.png"
-permalink: "/talks/"
+permalink: "/outreach/talks/"
 ---
 
 

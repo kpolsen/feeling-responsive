@@ -15,9 +15,16 @@
   url: "/resume/"
   side: left
 
-- title: "Talks"
-  url: "/talks/"
+- title: Outreach
+  url: "/outreach/"
   side: left
+  dropdown:
+  - title: "Organizational work"
+    url: "/outreach/organizational/"
+  - title: "Galaxy Crawl"
+    url: "/outreach/galaxycrawl/"
+  - title: "Talks"
+    url: "/outreach/talks/"
 
 - title: "Contact"
   url: "/contact/"
