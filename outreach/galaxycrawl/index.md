@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
+title: "Galaxy Crawl Talk Series"
 subheadline: ""
 teaser: ""
 permalink: "/outreach/galaxycrawl/"
