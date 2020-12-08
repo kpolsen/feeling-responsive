@@ -52,25 +52,27 @@ ___
 
 ## 2020 Spring
 
-<!-- 8/18/2020	The SAGA Survey: Building a Statistical Sample of Satellite Galaxies in Milky Way-like Systems	Marla Geha (Yale), Yao-Yuan Mao (Rutgers)		https://arizona.zoom.us/rec/share/7NdqD6Dz9E1LaI3frxmDBoUHDNTOT6a82iUZ_vNexEki8lTCdLc9Qnpbsb5y3Xct
-8/11/2020	A simple forward model for evolution of dwarf galaxies	Andrey Kravtsov (U Chicago)		https://arizona.zoom.us/rec/share/7JdZJu768lpJGJGS1WPHSqx6LIviX6a80yQe_vYMykhR0h7qnVDYW8mfSzsrNCPm
-8/4/2020	Powderday: Dust radiative transfer for galaxy simulations	Desika Narayanan (U Florida)		https://arizona.zoom.us/rec/share/5-pMKbrUyV9ITInk1x_mcaceDp39aaa8gyAa__MOzkvAIkm4uQun0YbTwdchjSlj
-7/28/2020	Color gradients in 1.0 < z < 2.5 galaxies: clues to quenching and structural growth	Wren Suess (Berkeley)		
-7/21/2020	Predictions for JWST from the UniverseMachine	Peter Behroozi (U Arizona)		
-7/14/2020	Stochastic modelling of star-formation histories	Sandro Tacchella (CfA Harvard)		
-7/7/2020	Unraveling the Milky Way's Stellar Halo with the H3 Survey	Rohan Naidu (CfA Harvard)		
-6/30/2020	Thermal Instability in the CGM of L* Galaxies: Testing “Precipitation” Models with the FIRE Simulations	Clarke Esmerian (UChicago)		
-6/23/2020	Modeling the thermal phases of the interstellar medium in star-forming galaxies	Shmuel Bialy (CFA Harvard)		
-6/16/2020	- from solar metallicity to primordial gas	Allison Man (U Toronto)		
-6/9/2020	Structure formation with the SPARTA code: halo catalogs, subhalos, and much, much more	Benedikt Diemer (UMD)		
-6/2/2020	-	-	Skipped in honour of Black Lives Matter	
-5/26/2020	UT Austin projects overview	Mike Boylan-Kolchin (UT Austin)		
-5/19/2020	The Effect of Cosmic Rays on Star Formation	Christine Simpson (U Chicago)		
-5/12/2020	Stripping of galaxies	Garreth Martin (U Arizona)		
-5/5/2020	Galaxy merger rates in simulation and observation	Greg Snyder (STScI), Vicente Rodriguez-Gomez (IRyA), Paul Torrey (U Florida)		
-4/28/2020	The Cosmic web	Katarina Kraljic (U Edinburgh)		
-4/21/2020	"Forward modeling Galaxy colors" and "The reliability of cosmological simulations"	Jonás Chaves-Montero (Argonne National Laboratory) and Phil Mansfield (U Chicago)		
-4/14/2020		Kristen McQuinn and Grace Telford (Rutgers)		
-4/7/2020	"Modeling stochastic star formation histories" and "A revised estimate of the star formation rate density"	Sidney Lower (U Florida) and Joel Leja (CfA Harvard)		 -->
+| Date | Speaker | Title | Notes |
+| ---- | ------- | ----- | ----- |
+| 8/18/2020	| Marla Geha (Yale) and Yao-Yuan Mao (Rutgers) | The SAGA Survey: Building a Statistical Sample of Satellite Galaxies in Milky Way-like Systems		|	- | [zoom recording](https://arizona.zoom.us/rec/share/7NdqD6Dz9E1LaI3frxmDBoUHDNTOT6a82iUZ_vNexEki8lTCdLc9Qnpbsb5y3Xct)
+| 8/11/2020	| Andrey Kravtsov (U Chicago)	 | A simple forward model for evolution of dwarf galaxies	| - |	[zoom recording](https://arizona.zoom.us/rec/share/7JdZJu768lpJGJGS1WPHSqx6LIviX6a80yQe_vYMykhR0h7qnVDYW8mfSzsrNCPm)
+| 8/4/2020 |	Desika Narayanan (U Florida) | Powderday: Dust radiative transfer for galaxy simulations	| -	|	[zoom recording](https://arizona.zoom.us/rec/share/5-pMKbrUyV9ITInk1x_mcaceDp39aaa8gyAa__MOzkvAIkm4uQun0YbTwdchjSlj)
+| 7/28/2020	| Wren Suess (Berkeley) | Color gradients in 1.0 < z < 2.5 galaxies: clues to quenching and structural growth	| - | - |		
+| 7/21/2020	| Peter Behroozi (U Arizona) | Predictions for JWST from the UniverseMachine		| - | - |
+| 7/14/2020	| Sandro Tacchella (CfA Harvard) | Stochastic modelling of star-formation histories		| - | - |
+| 7/7/2020	| Rohan Naidu (CfA Harvard)	| Unraveling the Milky Way's Stellar Halo with the H3 Survey	| - | - |	
+| 6/30/2020	| Clarke Esmerian (UChicago) | Thermal Instability in the CGM of L* Galaxies: Testing “Precipitation” Models with the FIRE Simulations	| - | - |
+| 6/23/2020	| Modeling the thermal phases of the interstellar medium in star-forming galaxies from solar metallicity to primordial gas	| Shmuel Bialy (CFA Harvard) | - | - |
+6/16/2020 |	Allison Man (U Toronto) | 	Quenching star formation of galaxies: why, how, and what do we know?	| - | - |
+| 6/9/2020 | Benedikt Diemer (UMD) | Structure formation with the SPARTA code: halo catalogs, subhalos, and much, much more	 | - | - |
+| 6/2/2020 |	-	-	Skipped in honour of Black Lives Matter	| - |
+|5/26/2020 | Mike Boylan-Kolchin (UT Austin) | UT Austin projects overview		| - | - |
+| 5/19/2020 |	Christine Simpson (U Chicago) | The Effect of Cosmic Rays on Star Formation	| - | - |		
+| 5/12/2020 |	Garreth Martin (U Arizona)	 | Stripping of galaxies	| - | - |	
+| 5/5/2020 |  Greg Snyder (STScI), Vicente Rodriguez-Gomez (IRyA), Paul Torrey (U Florida) |	Galaxy merger rates in simulation and observation	| - | - |
+| 4/28/2020 |	Katarina Kraljic (U Edinburgh)	 | The Cosmic web | - | - |	
+| 4/21/2020 | Jonás Chaves-Montero (Argonne National Laboratory) and Phil Mansfield (U Chicago) |	"Forward modeling Galaxy colors" and "The reliability of cosmological simulations"	| - | - |		
+| 4/14/2020 |		Kristen McQuinn and Grace Telford (Rutgers)	| Star formation histories of nearby dwarf galaxies	| - | - |	
+| 4/7/2020 | Sidney Lower (U Florida) and Joel Leja (CfA Harvard) |	"Modeling stochastic star formation histories" and "A revised estimate of the star formation rate density" 	| - | - |	
 
 
