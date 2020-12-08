@@ -9,9 +9,9 @@ header:
 permalink: "/outreach/galaxycrawl/"
 ---
 
-This is an weekly, virtual talk series with an informal format centered on the topic of galaxy evolution theory.
+This is a weekly, virtual talk series held in an informal format and centered on the topic of galaxy evolution theory.
 
-The main purpose is to give students and postdocs in our groups exposure to other institutes now that conferences are cancelled or going online, but we also have a wide audience from other institutions calling in. 
+The main purpose is to give students and postdocs in our group here at University of Arizona exposure to other institutes now that conferences are cancelled or going online due to the pandemic. But we also have a wide audience from other institutions calling in. 
 
 I started the sessions in March when lock-down forced everyone to work from home and it's been building momentum since then, as a place where we feel less isolated and can share our research results. 
 
