@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Galaxy Crawl Talk Series"
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "texture1.png"
+   title: "Galaxy Crawl Talk Series"
 permalink: "/outreach/galaxycrawl/"
 ---
 
