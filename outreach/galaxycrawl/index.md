@@ -21,15 +21,59 @@ Talks are anything from 15 to 30 min long and can contain either published work 
 
 Below is a list of previous and scheduled talks, with links to zoom recordings (the links stay active for 200 days after the day of recording!). To get on the mailing list or become a speaker, email me at karenolsen (at) arizona.edu.
 
+___
+
+## 2021 Spring
+
 
 ___
 
-## 2021
+## 2020 Fall
 
-<b style="color: #006699">02-19-20: SIMBA Collaboration Workshop, New York, US</b><br>
+| Date | Speaker | Title | Notes |
+| ---- | ------- | ----- | ----- |
+|12/17/2020	|	Amy Sardone (Ohio State University)	| - | - | - |
+|12/10/2020	| Johnny Greco (Ohio State University) |  Counting Giants: Measuring distances to low-luminosity galaxies using surface brightness fluctuations	| - | - |
+|12/3/2020	| - | - | No speaker, skipping	| - |
+|11/26/2020	| -	| -	| Skipping due to Thanksgiving	| - |
+|11/19/2020	| Mahsa Kohandel (Scuola Normale Superiore, Pisa, Italy) |Dynamics of galaxies at the Epoch of Reionization	|	Starting 2 hours earlier to accommodate for European timezone of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/-Qc43B3cUMo0miJTfEfOnV5yD8hnUCiyEuHOzgcOt7rYctRrmGR1wDN2wyb7NWL2.77SzU_zAaAs3ro85) |
+|11/12/2020	| Laura Sommovigo (Scuola Normale Superiore, Pisa, Italy) | Some like it hot: dust in high-redshift galaxies | 	Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/BUir35nF8mNOH_uHJ7KFAsEcUxJQzUWGhUjNol-bendMqizUz-CDT2EL1dZvu5BN.R-CQRiRiT0BhwZDn) |
+|11/5/2020	| Yuxiang Qin (Scuola Normale Superiore, Pisa, Italy)	 | A tale of two sites — inferring the properties of minihalo-hosted galaxies from current observations and upcoming 21-cm interferometers | Starting 2 hours earlier to accommodate for European timezone of speaker	[zoom recording](https://arizona.zoom.us/rec/share/UTiLsaXhv0L2UdFtk0DJ4Tqd62Gk8JZj-657GTYC2vbBLlH965vb0NGu4Dhg_IZB.henerDVCyA7X1A7w) |
+|10/29/2020	| Karen Olsen (U Arizona) | Infrared Emission Line Modeling of 
+the Interstellar Medium	 | - |	[zoom recording](https://arizona.zoom.us/rec/share/KAUl3X_J6o0PmEf2DWud9p_guo3NR0JmXiAWYA9rfXNfBEejYn794-VCaxnny-Hs.LIfHLVdzZL4glkgI)
+|10/22/2020	| Haowen Zhang (U Arizona) | Trinity: Statistical Dark Matter Halo—Galaxy—Supermassive Black Hole Connection from z=0-10		| - |	[zoom recording](https://arizona.zoom.us/rec/share/JQ1JeBws6J6Un0s7VhtptjlSyyyy_7Z5JrKuP7Q8kAFrqusNE-f9Cx3g-shjX2os.e8w_aju7OiXnFK9W) |
+|10/15/2020	| Paul Bennet (STScI) and Ananthan Karunakaran (Queens) | "Constraining Ultra-Diffuse Galaxy Formation Mechanisms using Neutral Atomic Gas" and "The Scatter in the Satellite Luminosity Function of Local Volume Galaxies"		| - |	[zoom recording](https://arizona.zoom.us/rec/share/eZeXg8GHCxqKRYw4vt-dvKTZiJJrM2A7tSxp-iww7q9y7R_joqzFtXe4qnekiwpi.ZQDdrTzUIdCEo8j1) |
+|10/8/2020	| Amanda Quirk (UCSC) | A Tale of Two Galaxies: Asymmetric Drift in the Disks of M31 & M33	|	Starting 2 hours earlier to accommodate schedule of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/WaXc_2JDcFFi7Nzlmh-JvRkrU1SBBhuBn35gCjibL9AAStxQmC6W0nggBCplECOK.xOk-rip-XoX1VnGQ) |
+|10/1/2020	| Antonela Monachesi (U Serena) | The stellar halos and bulges of Milky Way like simulated galaxies from the Auriga project		| - |	[zoom recording](https://arizona.zoom.us/rec/share/ga896-Mx0BlSxexcN8LShHON8WoIUNIKTNNrg5x3TO6EH29IBVRQU3WL89tp-gEN.OEv1tlv3lbr8HOKL) |
+|9/24/2020	| Khyati Malhan (Stockholm University) | Stellar streams as probes of dark matter density profiles in low-mass galaxy halos (cusp/core?)	|	Starting 2 hours earlier to accommodate for European timezone of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/FK-ttxpnWJcx_LOWRuqtdjPjY0wrSu-oh8mweLOAdP__aff7JUkxpD379-ob09Gn.k6IRadbIMhS2kWFG) |
+| 9/17/2020	|  Prerak Garg (U Florida)	 | The BPT Diagram in Cosmological Galaxy Formation Simulations (Understanding the Physics Driving Offsets at High-Redshift)	| - |	[zoom recording](https://arizona.zoom.us/rec/share/Qw0g5Sod_U8WG8S9yCh2albvXB2zO30a0HFrEbvQI9HkAOR6d7A-OIxeRmMxdQpX.j0u0jsBEaLdEz7hv) |
+| 9/10/2020	| Ferah Munshi (U Oklahoma), Elaad Applebaum (Rutgers) | Heroically simulating the formation and evolution of ultra-faint dwarfs	| - |	[zoom recording](https://arizona.zoom.us/rec/share/aX4anSkeq6-6-KrrE-xjteAUKEaU_mO1Vvt5WjxNWQxnZbTKh9LgB73z1ZOEpejL.7fpTVpJCyweTaOMw) |
+| 9/3/2020	| -	 | - | Skipping due to STsCI symposium	
+| 8/27/2020	| Sankalp S Gilda (U Florida) | mirkwood: SED fitting for the Twenty-First Century	|	Changing time from Tuesdays to Thursdays! |	[zoom recording](https://arizona.zoom.us/rec/share/7_dzBJ6vy29LQK_Ot130X5EbI7bkaaa8gHca__AEyhpQKUlALhTTjIESMpfNXYtt) |
 
+___
 
+## 2020 Spring
 
-## 2020
+<!-- 8/18/2020	The SAGA Survey: Building a Statistical Sample of Satellite Galaxies in Milky Way-like Systems	Marla Geha (Yale), Yao-Yuan Mao (Rutgers)		https://arizona.zoom.us/rec/share/7NdqD6Dz9E1LaI3frxmDBoUHDNTOT6a82iUZ_vNexEki8lTCdLc9Qnpbsb5y3Xct
+8/11/2020	A simple forward model for evolution of dwarf galaxies	Andrey Kravtsov (U Chicago)		https://arizona.zoom.us/rec/share/7JdZJu768lpJGJGS1WPHSqx6LIviX6a80yQe_vYMykhR0h7qnVDYW8mfSzsrNCPm
+8/4/2020	Powderday: Dust radiative transfer for galaxy simulations	Desika Narayanan (U Florida)		https://arizona.zoom.us/rec/share/5-pMKbrUyV9ITInk1x_mcaceDp39aaa8gyAa__MOzkvAIkm4uQun0YbTwdchjSlj
+7/28/2020	Color gradients in 1.0 < z < 2.5 galaxies: clues to quenching and structural growth	Wren Suess (Berkeley)		
+7/21/2020	Predictions for JWST from the UniverseMachine	Peter Behroozi (U Arizona)		
+7/14/2020	Stochastic modelling of star-formation histories	Sandro Tacchella (CfA Harvard)		
+7/7/2020	Unraveling the Milky Way's Stellar Halo with the H3 Survey	Rohan Naidu (CfA Harvard)		
+6/30/2020	Thermal Instability in the CGM of L* Galaxies: Testing “Precipitation” Models with the FIRE Simulations	Clarke Esmerian (UChicago)		
+6/23/2020	Modeling the thermal phases of the interstellar medium in star-forming galaxies	Shmuel Bialy (CFA Harvard)		
+6/16/2020	- from solar metallicity to primordial gas	Allison Man (U Toronto)		
+6/9/2020	Structure formation with the SPARTA code: halo catalogs, subhalos, and much, much more	Benedikt Diemer (UMD)		
+6/2/2020	-	-	Skipped in honour of Black Lives Matter	
+5/26/2020	UT Austin projects overview	Mike Boylan-Kolchin (UT Austin)		
+5/19/2020	The Effect of Cosmic Rays on Star Formation	Christine Simpson (U Chicago)		
+5/12/2020	Stripping of galaxies	Garreth Martin (U Arizona)		
+5/5/2020	Galaxy merger rates in simulation and observation	Greg Snyder (STScI), Vicente Rodriguez-Gomez (IRyA), Paul Torrey (U Florida)		
+4/28/2020	The Cosmic web	Katarina Kraljic (U Edinburgh)		
+4/21/2020	"Forward modeling Galaxy colors" and "The reliability of cosmological simulations"	Jonás Chaves-Montero (Argonne National Laboratory) and Phil Mansfield (U Chicago)		
+4/14/2020		Kristen McQuinn and Grace Telford (Rutgers)		
+4/7/2020	"Modeling stochastic star formation histories" and "A revised estimate of the star formation rate density"	Sidney Lower (U Florida) and Joel Leja (CfA Harvard)		 -->
 
 
