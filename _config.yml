@@ -43,7 +43,7 @@ urlimg: 'https://kpolsen.github.io/images/'
 
 # Logo size is 600x80 pixels
 logo: "logoGC.png"
-#logoGC: "logoGC.png"
+logoGC: "logoGC.png"
 
 # Gems
 gems:
