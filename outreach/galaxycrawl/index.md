@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Galaxy Crawl Talk Series"
 subheadline: ""
@@ -39,8 +39,7 @@ ___
 |11/19/2020	| Mahsa Kohandel (Scuola Normale Superiore, Pisa, Italy) |Dynamics of galaxies at the Epoch of Reionization	|	Starting 2 hours earlier to accommodate for European timezone of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/-Qc43B3cUMo0miJTfEfOnV5yD8hnUCiyEuHOzgcOt7rYctRrmGR1wDN2wyb7NWL2.77SzU_zAaAs3ro85) |
 |11/12/2020	| Laura Sommovigo (Scuola Normale Superiore, Pisa, Italy) | Some like it hot: dust in high-redshift galaxies | 	Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/BUir35nF8mNOH_uHJ7KFAsEcUxJQzUWGhUjNol-bendMqizUz-CDT2EL1dZvu5BN.R-CQRiRiT0BhwZDn) |
 |11/5/2020	| Yuxiang Qin (Scuola Normale Superiore, Pisa, Italy)	 | A tale of two sites — inferring the properties of minihalo-hosted galaxies from current observations and upcoming 21-cm interferometers | Starting 2 hours earlier to accommodate for European timezone of speaker	[zoom recording](https://arizona.zoom.us/rec/share/UTiLsaXhv0L2UdFtk0DJ4Tqd62Gk8JZj-657GTYC2vbBLlH965vb0NGu4Dhg_IZB.henerDVCyA7X1A7w) |
-|10/29/2020	| Karen Olsen (U Arizona) | Infrared Emission Line Modeling of 
-the Interstellar Medium	 | - |	[zoom recording](https://arizona.zoom.us/rec/share/KAUl3X_J6o0PmEf2DWud9p_guo3NR0JmXiAWYA9rfXNfBEejYn794-VCaxnny-Hs.LIfHLVdzZL4glkgI)
+|10/29/2020	| Karen Olsen (U Arizona) | Infrared Emission Line Modeling of the Interstellar Medium	 | - |	[zoom recording](https://arizona.zoom.us/rec/share/KAUl3X_J6o0PmEf2DWud9p_guo3NR0JmXiAWYA9rfXNfBEejYn794-VCaxnny-Hs.LIfHLVdzZL4glkgI)
 |10/22/2020	| Haowen Zhang (U Arizona) | Trinity: Statistical Dark Matter Halo—Galaxy—Supermassive Black Hole Connection from z=0-10		| - |	[zoom recording](https://arizona.zoom.us/rec/share/JQ1JeBws6J6Un0s7VhtptjlSyyyy_7Z5JrKuP7Q8kAFrqusNE-f9Cx3g-shjX2os.e8w_aju7OiXnFK9W) |
 |10/15/2020	| Paul Bennet (STScI) and Ananthan Karunakaran (Queens) | "Constraining Ultra-Diffuse Galaxy Formation Mechanisms using Neutral Atomic Gas" and "The Scatter in the Satellite Luminosity Function of Local Volume Galaxies"		| - |	[zoom recording](https://arizona.zoom.us/rec/share/eZeXg8GHCxqKRYw4vt-dvKTZiJJrM2A7tSxp-iww7q9y7R_joqzFtXe4qnekiwpi.ZQDdrTzUIdCEo8j1) |
 |10/8/2020	| Amanda Quirk (UCSC) | A Tale of Two Galaxies: Asymmetric Drift in the Disks of M31 & M33	|	Starting 2 hours earlier to accommodate schedule of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/WaXc_2JDcFFi7Nzlmh-JvRkrU1SBBhuBn35gCjibL9AAStxQmC6W0nggBCplECOK.xOk-rip-XoX1VnGQ) |
@@ -48,7 +47,7 @@ the Interstellar Medium	 | - |	[zoom recording](https://arizona.zoom.us/rec/shar
 |9/24/2020	| Khyati Malhan (Stockholm University) | Stellar streams as probes of dark matter density profiles in low-mass galaxy halos (cusp/core?)	|	Starting 2 hours earlier to accommodate for European timezone of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/FK-ttxpnWJcx_LOWRuqtdjPjY0wrSu-oh8mweLOAdP__aff7JUkxpD379-ob09Gn.k6IRadbIMhS2kWFG) |
 | 9/17/2020	|  Prerak Garg (U Florida)	 | The BPT Diagram in Cosmological Galaxy Formation Simulations (Understanding the Physics Driving Offsets at High-Redshift)	| - |	[zoom recording](https://arizona.zoom.us/rec/share/Qw0g5Sod_U8WG8S9yCh2albvXB2zO30a0HFrEbvQI9HkAOR6d7A-OIxeRmMxdQpX.j0u0jsBEaLdEz7hv) |
 | 9/10/2020	| Ferah Munshi (U Oklahoma), Elaad Applebaum (Rutgers) | Heroically simulating the formation and evolution of ultra-faint dwarfs	| - |	[zoom recording](https://arizona.zoom.us/rec/share/aX4anSkeq6-6-KrrE-xjteAUKEaU_mO1Vvt5WjxNWQxnZbTKh9LgB73z1ZOEpejL.7fpTVpJCyweTaOMw) |
-| 9/3/2020	| -	 | - | Skipping due to STsCI symposium	
+| 9/3/2020	| -	 | - | Skipping due to STsCI symposium	| - |
 | 8/27/2020	| Sankalp S Gilda (U Florida) | mirkwood: SED fitting for the Twenty-First Century	|	Changing time from Tuesdays to Thursdays! |	[zoom recording](https://arizona.zoom.us/rec/share/7_dzBJ6vy29LQK_Ot130X5EbI7bkaaa8gHca__AEyhpQKUlALhTTjIESMpfNXYtt) |
 
 ___
