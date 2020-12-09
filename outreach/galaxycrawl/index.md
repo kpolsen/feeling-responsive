@@ -4,7 +4,7 @@ show_meta: false
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "crawl.jpg"
+   image_fullwidth: "crawl1.jpg"
    title: "Galaxy Crawl Talk Series"
 permalink: "/outreach/galaxycrawl/"
 ---
