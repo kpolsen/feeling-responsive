@@ -15,7 +15,7 @@ The main purpose is to give students and postdocs in our group here at Universit
 
 I started the sessions in March when lock-down forced everyone to work from home and it's been building momentum since then, as a place where we feel less isolated and can share our research results. 
 
-Talks are anything from 15 to 30 min long and can contain either published work or work in progress that needs comments or both! 
+Talks are anywhere from 15 to 30 min long and can contain either published work or work in progress that needs comments or both! 
 
 ---
 
