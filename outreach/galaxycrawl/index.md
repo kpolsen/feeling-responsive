@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "crawl1.jpg"
-   title: "Galaxy Crawl Talk Series"
+   title: "Galaxy Crawl<br/>Talk Series"
 permalink: "/outreach/galaxycrawl/"
 ---
 
