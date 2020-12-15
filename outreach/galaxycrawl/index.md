@@ -32,8 +32,8 @@ ___
 
 | Date | Speaker | Title | Notes |
 | ---- | ------- | ----- | ----- |
-|12/17/2020	|	Amy Sardone (Ohio State University)	| - | - | - |
-|12/10/2020	| Johnny Greco (Ohio State University) |  Counting Giants: Measuring distances to low-luminosity galaxies using surface brightness fluctuations	| - | - |
+|12/17/2020	|	Amy Sardone (Ohio State University)	| A Census of Neutral Hydrogen in the Nearby Universe | - | - |
+|12/10/2020	| Johnny Greco (Ohio State University) |  Counting Giants: Measuring distances to low-luminosity galaxies using surface brightness fluctuations	| - | [zoom recording](https://arizona.zoom.us/rec/share/eYwSZ0B8xxVjxOdAyTrdd2EGWkSCG95bEfs73aUGpsoB9_dqgx0FIwOHcApn_zXl.VGsr4nefiNQBLtk2) |
 |12/3/2020	| - | - | No speaker, skipping	| - |
 |11/26/2020	| -	| -	| Skipping due to Thanksgiving	| - |
 |11/19/2020	| Mahsa Kohandel (Scuola Normale Superiore, Pisa, Italy) |Dynamics of galaxies at the Epoch of Reionization	|	Starting 2 hours earlier to accommodate for European timezone of speaker |	[zoom recording](https://arizona.zoom.us/rec/share/-Qc43B3cUMo0miJTfEfOnV5yD8hnUCiyEuHOzgcOt7rYctRrmGR1wDN2wyb7NWL2.77SzU_zAaAs3ro85) |
