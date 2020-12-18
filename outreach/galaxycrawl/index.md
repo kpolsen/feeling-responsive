@@ -32,7 +32,7 @@ ___
 
 | Date | Speaker | Title | Notes |
 | ---- | ------- | ----- | ----- |
-|12/17/2020	|	Amy Sardone (Ohio State University)	| A Census of Neutral Hydrogen in the Nearby Universe | - | - |
+|12/17/2020	|	Amy Sardone (Ohio State University)	| A Census of Neutral Hydrogen in the Nearby Universe | - | [zoom recording](https://arizona.zoom.us/rec/share/GoAt4B8xKgg0uS5S9nsDKXs-6sndjRIBDhZ1QyHCoklWM_b04AFmyP9C8MxOrg1T.XvoTLK5iMxmIEB-f) |
 |12/10/2020	| Johnny Greco (Ohio State University) |  Counting Giants: Measuring distances to low-luminosity galaxies using surface brightness fluctuations	| - | [zoom recording](https://arizona.zoom.us/rec/share/eYwSZ0B8xxVjxOdAyTrdd2EGWkSCG95bEfs73aUGpsoB9_dqgx0FIwOHcApn_zXl.VGsr4nefiNQBLtk2) |
 |12/3/2020	| - | - | No speaker, skipping	| - |
 |11/26/2020	| -	| -	| Skipping due to Thanksgiving	| - |
