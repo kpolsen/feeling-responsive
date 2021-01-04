@@ -24,7 +24,12 @@ Below is a list of previous and scheduled talks, with links to zoom recordings (
 ___
 
 ## 2021 Spring
-
+| Date | Speaker | Title | Notes |
+| ---- | ------- | ----- | ----- |
+|1/13/2021	|	Iryna Butsky	| Impact of Cosmic Rays on Thermal Instability in the Circumgalactic Medium | - | - |
+|1/20/2021	|	TBD	| - | - | - |
+|1/27/2021	|	TBD	| - | - | - |
+|2/3/2021	|	TBD	| - | - | - |
 
 ___
 
