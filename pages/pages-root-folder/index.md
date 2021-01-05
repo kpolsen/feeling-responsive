@@ -25,11 +25,7 @@ widget3:
 callforaction:
   url: 'https://kpolsen.github.io/SIGAME/'
   style: success
-  text: Hi there! My name is Karen Pardos Olsen, and I currently work as a postdoctoral research associate at University of Arizona, funded on my own NASA grant. On these pages you can find out more about what I do and who I am. Thanks for stopping by! 
-callforactions:
-  url: 'https://kpolsen.github.io/SIGAME/'
-  style: alert
-  text: To jump straight to my main research project, SIGAME, click here!
+  text: Hi there! My name is Karen Pardos Olsen, and I currently work as a postdoctoral research associate at University of Arizona, funded on my own NASA grant. On these pages you can find out more about what I do and who I am. To jump straight to my main research project, SIGAME, click on this box. Thanks for stopping by! 
 #
 # Use the call for action to show a button on the frontpage
 #
