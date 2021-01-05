@@ -9,6 +9,16 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
+{% comment %}
+*
+* If there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
 
 Hi there! My name is Karen Pardos Olsen, and I currently work as a postdoctoral research associate at University of Arizona, funded on my own NASA grant. On these pages you can find out more about what I do and who I am. Thanks for stopping by! 
 
@@ -104,15 +114,6 @@ Hi there! My name is Karen Pardos Olsen, and I currently work as a postdoctoral 
 {% endunless %}
 
 
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
 
 
 <!-- ...
