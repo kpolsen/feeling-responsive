@@ -11,8 +11,8 @@ header:
 
 
 > Karen Pardos Olsen<br>
-> pardos (at) elektro.dtu.dk<br>
-> Technical University of Denmark (DTU), Risø, Denmark<br>
-> Department of Electrical Engineering (Elektro)<br>
-> Office: Building 776, room 18<br>
+> karenolsen (at) arizona.edu<br>
+> University of Arizona, Tucson, US<br>
+> Steward Observatory<br>
+> Office: Room 333<br>
 
