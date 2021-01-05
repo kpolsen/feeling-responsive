@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: moens.png
+  image_fullwidth: moens.jpg
 widget1:
   title: "Outreach"
   url: 'http://kpolsen.github.io/outreach/'
