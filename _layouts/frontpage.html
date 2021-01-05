@@ -41,6 +41,24 @@ format: frontpage
 
 {% comment %}
 *
+* First check, if there is a call for SECOND action-button
+*
+{% endcomment %}
+{% if page.callforactions.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforactions %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforactions.style }}" href="{{ url }}{{ page.callforactions.url }}"{% if page.callforactions.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforactions.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
+
+{% comment %}
+*
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
