@@ -9,7 +9,7 @@ header:
 permalink: "/outreach/gems/"
 ---
 
-Since Spring 2020, I have been leading <a href="https://www.as.arizona.edu/gems-groupy"><font color="#660033">GEMS group at Steward Observatory</font></a> at the University of Arizona in Tucson.
+Since Spring 2020, I have been leading the <a href="https://www.as.arizona.edu/gems-groupy"><font color="#660033">GEMS group at Steward Observatory</font></a> at the University of Arizona in Tucson.
 
 GEMS works to raise awareness around and promote gender equality in science, technology, engineering and mathematics (STEM). We welcome people of all genders who are interested in improving gender equality in the field of Astronomy, and particularly encourage those who identify as gender minorities (e.g., female, transgender, or non-binary) to join us.
  
