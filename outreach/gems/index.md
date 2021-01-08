@@ -9,7 +9,7 @@ header:
 permalink: "/outreach/gems/"
 ---
 
-Since Spring 2020, I have been leading GEMS group at Steward Observatory at the University of Arizona. 
+Since Spring 2020, I have been leading <a href="https://www.as.arizona.edu/gems-groupy"><font color="#660033">GEMS group at Steward Observatory</font></a> at the University of Arizona in Tucson.
 
 GEMS works to raise awareness around and promote gender equality in science, technology, engineering and mathematics (STEM). We welcome people of all genders who are interested in improving gender equality in the field of Astronomy, and particularly encourage those who identify as gender minorities (e.g., female, transgender, or non-binary) to join us.
  
@@ -45,3 +45,16 @@ ___
 | ---- | --------------- | ----------- |
 |1/20/2020 | Nicole Lloyd-Ronning | Los Alamos National Lab |
 |2/24/2020 | Antonija Oklopčić | Harvard University |
+
+___
+
+## 2019 Fall
+
+Daniela Huppenkothen,  University of Washington<br>
+Christina Williams, Steward Observatory, University of Arizona<br>
+Jennifer Johnson, Ohio State<br>
+Diana Dragomir,  MIT<br>
+Maria Drout,  University of Toronto<br>
+Jessica Werk,  University of Washington<br>
+Rebecca Jensen-Clem,  UC Berkeley<br>
+Camille Avestruz, University of Michigan<br>
