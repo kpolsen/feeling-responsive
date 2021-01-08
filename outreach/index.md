@@ -9,7 +9,11 @@ header:
 permalink: "/outreach/"
 ---
 
-Astronomy has the unique power to spark an interest in science, technology, engineering and math (STEM) for people of any age. Most kids that grew up with Star Wars or perhaps looked up a the sky with a small telescope, are naturally inclined to crave knowledge about the galaxies, stars and planets. As researchers and educators, I think it is crucial that we work to keep this craving alive and encourage independent critical thinking at an early stage. This is why, for instance, I joined a program in Denmark to go as postdoc to 8th grade classrooms and give the students a personal experience about a what research in STEM is like. It is important that we make a career in STEM equally accessible and welcoming to all minorities. As a step in that direction, I am currently co-chairing the Gender Minorities at Steward group, providing a safe space for gender minorities to share thoughts and opportunities. See a full summary of my "Organizational Work" following the link below.
+Astronomy has the unique power to spark an interest in science, technology, engineering and math (STEM) for people of any age. Most kids that grew up with Star Wars or perhaps looked up a the sky with a small telescope, are naturally inclined to crave knowledge about the galaxies, stars and planets. As researchers and educators, I think it is crucial that we work to keep this craving alive and encourage independent critical thinking at an early stage. This is why, for instance, I joined a program in Denmark to go as postdoc to 8th grade classrooms and give the students a personal experience about a what research in STEM is like. It is important that we make a career in STEM equally accessible and welcoming to all minorities. As a step in that direction, I am currently co-chairing the Gender Minorities at Steward group, providing a safe space for gender minorities to share thoughts and opportunities: 
+
+<a class="radius button small" href="{{ site.url }}/outreach/gems/">Go to GEMS›</a>
+
+See a full summary of my "Organizational Work" following the link below.
 
 <a class="radius button small" href="{{ site.url }}/outreach/organizational/">See my Organizational Work›</a>
 
@@ -23,5 +27,4 @@ I strongly believe that only a scientifically and technologically informed citiz
 
 
 <a class="radius button small" href="{{ site.url }}/outreach/talks/">Go to Talks and Interviews I've given›</a>
-
 
