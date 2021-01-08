@@ -5,7 +5,7 @@ subheadline: "at Steward"
 teaser: ""
 header:
    image_fullwidth: "gems1.png"
-   title: "Gender Minorities"
+   title: "Gender Minorities ... "
 permalink: "/outreach/gems/"
 ---
 
@@ -18,6 +18,12 @@ During each semester, our community comes together in a safe space to discuss an
 ---
 
 Below is a list of people that the group has hosted meetings with. Most of the people listed were also colloquium speakers visiting Steward Observatory at the time.
+
+
+___
+
+## 2021 Spring
+
 
 ___
 
@@ -39,7 +45,3 @@ ___
 | ---- | --------------- | ----------- |
 |1/20/2020 | Nicole Lloyd-Ronning | Los Alamos National Lab |
 |2/24/2020 | Antonija Oklopčić | Harvard University |
-
-___
-
-## 2020 Spring
