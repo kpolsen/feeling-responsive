@@ -4,8 +4,9 @@ show_meta: false
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "gems.png"
-   title: "Gender Minorities<br/>at Steward"
+   image_fullwidth: "gems1.png"
+   title: "Gender Minorities"
+   subheadline: "at Steward"
 permalink: "/outreach/gems/"
 ---
 
