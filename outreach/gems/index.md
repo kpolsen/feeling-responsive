@@ -1,12 +1,11 @@
 ---
 layout: page-fullwidth1
 show_meta: false
-subheadline: ""
+subheadline: "at Steward"
 teaser: ""
 header:
    image_fullwidth: "gems1.png"
    title: "Gender Minorities"
-   subheadline: "at Steward"
 permalink: "/outreach/gems/"
 ---
 
