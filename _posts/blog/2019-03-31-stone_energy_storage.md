@@ -3,6 +3,7 @@ layout: page
 subheadline:  "Renewables"
 title:  "Using rocks to store energy"
 teaser: "About a low-tech way to store large amounts of surplus renewable energy, and a tour to see an actual prototype in Denmark."
+url: stone-energy-storage
 header:
     image_fullwidth: "texture1.png"
 image:
