@@ -20,7 +20,7 @@ permalink: "blog/archive/"
 				<div id="panel{{ counter }}" class="content">
 					{% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
 					<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>Read more></strong></a><br><br>. 
-					Link: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
+					Link: {{ site.url }} {{ site.baseurl }} {{ post.url }} {{ post.title | escape_once }} <strong>Read more></strong><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a><br><br>
 				</div>
 			</dd>
 			{% assign counter=counter | plus:1 %}
