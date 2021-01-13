@@ -24,6 +24,9 @@ ___
 
 ## 2021 Spring
 
+| Date | Invited speaker | Affiliation |
+| ---- | --------------- | ----------- |
+|1/13/2021	|	Professor Kate Daniel	| Bryn Mawr College |
 
 ___
 
