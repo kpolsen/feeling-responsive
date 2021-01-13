@@ -28,12 +28,13 @@ ___
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
 |1/13/2021	|	Iryna Butsky (U Washington)	| Impact of Cosmic Rays on Thermal Instability in the Circumgalactic Medium | - | - |
-|1/20/2021	|	TBD	| - | - | - |
+|1/20/2021	|	TBD	| - | Most likely skipping | - |
 |1/27/2021	|	Laura Blecha (U Florida)	| - | - | - |
 |2/3/2021	|	Stacy Kim (U Ohio)	| - | - | - |
 |2/10/2021	|	TBD	| - | - | - |
 |2/17/2021	|	Michael Tremmel (Yale)	| - | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| - | - | - |
+|3/3/2021	|	Sarah Loebman (UC Merced)	| - | - | - |
 
 ___
 
