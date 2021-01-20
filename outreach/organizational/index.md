@@ -11,6 +11,13 @@ permalink: "/outreach/organizational/"
 
 (For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.)
 
+
+## Volunteer at virtual CUWiP2021: The APS Conferences for Undergraduate Women in Physics
+I will be taking part in the CUWiP Networking Fair, representing UArizona astronomy & physics, as well as chairing a Lightning Talk session on "Condensed Matter, Renewable Energy, Other". I am also part of the planning of CUWiP2022 which will be on-site hosted by UArizona. 
+[See full schedule here](http://meetings.aps.org/Meeting/CUWIP21/SessionIndex2/?VirtualSession=U).
+
+<br>
+
 ## Co-chair of Gender Minorities at Steward (GEMS)
 As of April 2020 I am co-chairing the <a href="https://www.as.arizona.edu/gems-groupy"><font color="#660033">GEMS group at Steward Observatory</font></a>. 
 This is a group that works towards raising awareness around and promote gender equality in science, technology, engineering and mathematics (STEM). People of all genders, who are interested in improving gender equality in the field of Astronomy, are welcome, and in particular those who identify as gender minorities (e.g., female, transgender, or non-binary). 
