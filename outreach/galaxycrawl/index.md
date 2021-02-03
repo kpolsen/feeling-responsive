@@ -27,6 +27,8 @@ ___
 
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
+|3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
+|3/10/2021	|	TBD	| - | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| - | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| - | - | - |
 |2/17/2021	|	Michael Tremmel (Yale)	| - | - | - |
