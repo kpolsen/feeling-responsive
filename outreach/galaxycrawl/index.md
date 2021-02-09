@@ -34,7 +34,7 @@ ___
 |2/24/2021	|	Nicole Sanchez (U Washington)	| - | - | - |
 |2/17/2021	|	Michael Tremmel (Yale)	| - | - | - |
 |2/10/2021	|	Spencer Scott (UArizona) | Empirically Modeling Galaxy Colors with the UniverseMachine | - | - |
-|2/3/2021	|	Stacy Kim (U Surrey)	| Completeness Corrections and the Small Scale Issues of the Milky Way and Beyond | Starting 2 hours earlier to accommodate for European timezone of speaker | - |
+|2/3/2021	|	Stacy Kim (U Surrey)	| Completeness Corrections and the Small Scale Issues of the Milky Way and Beyond | Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/HZMgU6urUgr_f0XHX0sfFMhlwE4k3xxTF09MaeaM8UPp0R9zO5NQn0ByIY_IQMP_.w5JrTnq8p9ya3s1m) |
 |1/27/2021	|	Laura Blecha (U Florida)	| Multi-messenger Signatures of Supermassive Black Hole Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/78MdmcPoosFnjRwWOxCmSCyxs0xwb7evskgJAJShQPMYIfPw2EyiKCjP2RzVESiK.KuFSZ8JRlNlwJbHO) |
 |1/20/2021	|	TBD	| - | Most likely skipping | - |
 |1/13/2021	|	Iryna Butsky (U Washington)	| Impact of Cosmic Rays on Thermal Instability in the Circumgalactic Medium | - | [zoom recording](https://arizona.zoom.us/rec/share/1LeMoDR9RnRsZ-ksfJeou-rXxA-q3XWgM_TMSFZT87YLwZDvwj09KWtXgmanhgTU.c88MmNIL6qib9Gee) |
