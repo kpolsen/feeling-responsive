@@ -29,11 +29,11 @@ ___
 | ---- | ------- | ----- | ----- | ---- |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
-|3/10/2021	|	TBD	| - | - | - |
+|3/10/2021	|	Akaxia Cruz (U Washington)	| - | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| - | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | - |
 |2/17/2021	|	Michael Tremmel (Yale)	| - | - | - |
-|2/10/2021	|	Spencer Scott (UArizona) | Empirically Modeling Galaxy Colors with the UniverseMachine | - | - |
+|2/10/2021	|	Spencer Scott (UArizona) | Empirically Modeling Galaxy Colors with the UniverseMachine | - | [zoom recording](https://arizona.zoom.us/rec/share/2gXJAjIc-6IzeqgwJaLdgVg3TU7AOhI40zEHv1igABTTxoTzIdqtRC2MsnfHHjsP.D2vNqaskxtg_u19q) |
 |2/3/2021	|	Stacy Kim (U Surrey)	| Completeness Corrections and the Small Scale Issues of the Milky Way and Beyond | Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/HZMgU6urUgr_f0XHX0sfFMhlwE4k3xxTF09MaeaM8UPp0R9zO5NQn0ByIY_IQMP_.w5JrTnq8p9ya3s1m) |
 |1/27/2021	|	Laura Blecha (U Florida)	| Multi-messenger Signatures of Supermassive Black Hole Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/78MdmcPoosFnjRwWOxCmSCyxs0xwb7evskgJAJShQPMYIfPw2EyiKCjP2RzVESiK.KuFSZ8JRlNlwJbHO) |
 |1/20/2021	|	TBD	| - | Most likely skipping | - |
