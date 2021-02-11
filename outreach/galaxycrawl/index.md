@@ -27,6 +27,11 @@ ___
 
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
+|4/28/2021	|	Cameron Hummels (Caltech)	| - | - | - |
+|4/21/2021	|	TBD	| - | - | - |
+|4/14/2021	|	TBD	| - | - | - |
+|4/7/2021	|	TBD	| - | - | - |
+|3/31/2021	|	TBD	| - | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| - | - | - |
