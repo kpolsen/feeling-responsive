@@ -12,9 +12,10 @@ permalink: "/outreach/organizational/"
 (For talks and interviews, see <a href="{{ site.url }}/pages/talks/index.md"><font color="#660033">this page</font></a>.)
 
 
-## Volunteer at virtual CUWiP2021: The APS Conferences for Undergraduate Women in Physics
-I will be taking part in the CUWiP Networking Fair, representing UArizona astronomy & physics, as well as chairing a Lightning Talk session on "Condensed Matter, Renewable Energy, Other". I am also part of the planning of CUWiP2022 which will be on-site hosted by UArizona. 
-[See full schedule here](http://meetings.aps.org/Meeting/CUWIP21/SessionIndex2/?VirtualSession=U).
+## Volunteer at CUWiP: The APS Conferences for Undergraduate Women in Physics
+I am part of the local planning committee for CUWiP2022 which will be hosted on-site at UArizona. <br>
+In 2021, I took part in the CUWiP Networking Fair, representing UArizona astronomy & physics, as well as chairing a Lightning Talk session on "Condensed Matter, Renewable Energy, Other". [See full schedule here](http://meetings.aps.org/Meeting/CUWIP21/SessionIndex2/?VirtualSession=U). <br>
+In 2018, I participated as invited speaker to talk about my research in the breakout session "Hot Topics in Physics".
 
 <br>
 
