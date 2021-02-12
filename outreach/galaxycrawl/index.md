@@ -31,13 +31,13 @@ ___
 |4/21/2021	|	TBD	| - | - | - |
 |4/14/2021	|	TBD	| - | - | - |
 |4/7/2021	|	TBD	| - | - | - |
-|3/31/2021	|	TBD	| - | - | - |
+|3/31/2021	|	Shmuel Bialy (CfA Harvard)	| - | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| - | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| - | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | - |
-|2/17/2021	|	Michael Tremmel (Yale)	| - | - | - |
+|2/17/2021	|	Michael Tremmel (Yale)	| Dynamic Duos: Supermassive Black Hole Pairs in Merging Galaxies | - | - |
 |2/10/2021	|	Spencer Scott (UArizona) | Empirically Modeling Galaxy Colors with the UniverseMachine | - | [zoom recording](https://arizona.zoom.us/rec/share/2gXJAjIc-6IzeqgwJaLdgVg3TU7AOhI40zEHv1igABTTxoTzIdqtRC2MsnfHHjsP.D2vNqaskxtg_u19q) |
 |2/3/2021	|	Stacy Kim (U Surrey)	| Completeness Corrections and the Small Scale Issues of the Milky Way and Beyond | Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/HZMgU6urUgr_f0XHX0sfFMhlwE4k3xxTF09MaeaM8UPp0R9zO5NQn0ByIY_IQMP_.w5JrTnq8p9ya3s1m) |
 |1/27/2021	|	Laura Blecha (U Florida)	| Multi-messenger Signatures of Supermassive Black Hole Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/78MdmcPoosFnjRwWOxCmSCyxs0xwb7evskgJAJShQPMYIfPw2EyiKCjP2RzVESiK.KuFSZ8JRlNlwJbHO) |
@@ -82,7 +82,7 @@ ___
 | 7/14/2020	| Sandro Tacchella (CfA Harvard) | Stochastic modelling of star-formation histories		| - | - |
 | 7/7/2020	| Rohan Naidu (CfA Harvard)	| Unraveling the Milky Way's Stellar Halo with the H3 Survey	| - | - |	
 | 6/30/2020	| Clarke Esmerian (UChicago) | Thermal Instability in the CGM of L* Galaxies: Testing “Precipitation” Models with the FIRE Simulations	| - | - |
-| 6/23/2020	| Shmuel Bialy (CFA Harvard) | Modeling the thermal phases of the interstellar medium in star-forming galaxies from solar metallicity to primordial gas	| - | - |
+| 6/23/2020	| Shmuel Bialy (CfA Harvard) | Modeling the thermal phases of the interstellar medium in star-forming galaxies from solar metallicity to primordial gas	| - | - |
 6/16/2020 |	Allison Man (U Toronto) | 	Quenching star formation of galaxies: why, how, and what do we know?	| - | - |
 | 6/9/2020 | Benedikt Diemer (UMD) | Structure formation with the SPARTA code: halo catalogs, subhalos, and much, much more	 | - | - |
 | 6/2/2020 |	-	-	Skipped in honour of Black Lives Matter	| - |
