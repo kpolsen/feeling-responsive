@@ -26,6 +26,7 @@ ___
 
 | Date | Invited speaker | Affiliation |
 | ---- | --------------- | ----------- |
+|2/8/2021	|	Professor Sebastian Hoenig	| University of Southampton |
 |1/13/2021	|	Professor Kate Daniel	| Bryn Mawr College |
 
 ___
