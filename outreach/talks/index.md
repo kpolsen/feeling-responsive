@@ -19,7 +19,7 @@ ___
 <br>
 
 <b style="color: #006699">02/25/2021: Virtual Sazerac CIDER sessions</b><br>
-I will be giving a contributed talk at the <a href="http://sazerac-conference.org/SIPS2021/4.html"><font color="#660033">Sazerac CIDER: The Cold ISM During the Epoch of Reionisation </font></a> virtual conference. Sazerac stands for Summer All Zoom Epoch of Reionisaton Astronomy Conference, and started during the pandemic in 2020. 
+I gave a contributed talk at the <a href="http://sazerac-conference.org/SIPS2021/4.html"><font color="#660033">Sazerac CIDER: The Cold ISM During the Epoch of Reionisation </font></a> virtual conference. Sazerac stands for Summer All Zoom Epoch of Reionisaton Astronomy Conference, and started during the pandemic in 2020. <a href="https://youtu.be/-PfZNYdLZyA?t=4155"><font color="#660033">See the recording of the talk on YouTube here</font></a>.
 
 
 ## 2020
