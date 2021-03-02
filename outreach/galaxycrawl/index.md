@@ -27,16 +27,18 @@ ___
 
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
-|4/28/2021	|	Cameron Hummels (Caltech)	| - | - | - |
+|5/12/2021	|	TBD	| - | - | - |
+|5/5/2021	|	TBD	| - | - | - |
+|4/28/2021	|	TBD	| - | - | - |
 |4/21/2021	|	Yong Zheng (UC Berkeley	| - | - | - |
 |4/14/2021	|	TBD	| - | - | - |
-|4/7/2021	|	TBD	| - | - | - |
+|4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| - | - | - |
 |3/31/2021	|	Shmuel Bialy (CfA Harvard)	| - | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| - | - | - |
-|3/3/2021	|	Sarah Loebman (UC Merced)	| - | - | - |
-|2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | - |
+|3/3/2021	|	Sarah Loebman (UC Merced)	| Connecting Across Scales: Star Clusters as Probes of Galactic Environment | - | - |
+|2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/neO9sZr_oIsULzOsBd9bDaWd2T1VQiEA7Thiuv7uaPK87xeYt78zlfZ2BvrniAND.6mCnKzDma-IPgd5d) |
 |2/17/2021	|	Michael Tremmel (Yale)	| Dynamic Duos: Supermassive Black Hole Pairs in Merging Galaxies | - | [zoom recording](https://arizona.zoom.us/rec/share/dbS0Ye2CKd3M39_qXGjwXea1zhpNGMypcOycaFcwMkpwd_eOsfASWtbgcb5EZreu.5rda3TPi4T3Aazp9) |
 |2/10/2021	|	Spencer Scott (UArizona) | Empirically Modeling Galaxy Colors with the UniverseMachine | - | [zoom recording](https://arizona.zoom.us/rec/share/2gXJAjIc-6IzeqgwJaLdgVg3TU7AOhI40zEHv1igABTTxoTzIdqtRC2MsnfHHjsP.D2vNqaskxtg_u19q) |
 |2/3/2021	|	Stacy Kim (U Surrey)	| Completeness Corrections and the Small Scale Issues of the Milky Way and Beyond | Starting 2 hours earlier to accommodate for European timezone of speaker | [zoom recording](https://arizona.zoom.us/rec/share/HZMgU6urUgr_f0XHX0sfFMhlwE4k3xxTF09MaeaM8UPp0R9zO5NQn0ByIY_IQMP_.w5JrTnq8p9ya3s1m) |
