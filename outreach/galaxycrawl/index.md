@@ -36,7 +36,7 @@ ___
 |3/31/2021	|	Shmuel Bialy (CfA Harvard)	| - | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| - | - | - |
-|3/10/2021	|	Akaxia Cruz (U Washington)	| - | - | - |
+|3/10/2021	|	Akaxia Cruz (U Washington)	| Postponed to a later date! | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| Connecting Across Scales: Star Clusters as Probes of Galactic Environment | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/neO9sZr_oIsULzOsBd9bDaWd2T1VQiEA7Thiuv7uaPK87xeYt78zlfZ2BvrniAND.6mCnKzDma-IPgd5d) |
 |2/17/2021	|	Michael Tremmel (Yale)	| Dynamic Duos: Supermassive Black Hole Pairs in Merging Galaxies | - | [zoom recording](https://arizona.zoom.us/rec/share/dbS0Ye2CKd3M39_qXGjwXea1zhpNGMypcOycaFcwMkpwd_eOsfASWtbgcb5EZreu.5rda3TPi4T3Aazp9) |
