@@ -35,7 +35,8 @@ ___
 |4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| - | - | - |
 |3/31/2021	|	Shmuel Bialy (CfA Harvard)	| - | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| - | Starting 2 hours earlier | - |
-|3/17/2021	|	Anna Nierenberg (UC Merced)	| Measuring the properties of dark matter with strong lensing of unresolved sources | - | - |
+|3/17/2021	|	Anna Nierenberg (UC Merced)	| Measuring the properties of dark matter with strong lensing of unresolved sources | - | [zoom recording](https://arizona.zoom.us/rec/share/e2Z1kiHfd9AKVErBH2goK9OlZuPyOJtEVd35qF1SWI8M9mVcQfQEcdxqlyKIjTzp.S2x6dfu9_7WEVp6t
+) |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| Postponed to a later date! | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| Connecting Across Scales: Star Clusters as Probes of Galactic Environment | - | - |
 |2/24/2021	|	Nicole Sanchez (U Washington)	| Ebb and Flow: Connecting Cosmic Gas Flows, Supermassive Black Hole Growth, and Galactic Evolution | - | [zoom recording](https://arizona.zoom.us/rec/share/neO9sZr_oIsULzOsBd9bDaWd2T1VQiEA7Thiuv7uaPK87xeYt78zlfZ2BvrniAND.6mCnKzDma-IPgd5d) |
