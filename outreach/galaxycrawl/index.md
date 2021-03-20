@@ -28,8 +28,8 @@ ___
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
 |5/12/2021	|	TBD	| - | - | - |
-|5/5/2021	|	TBD	| - | - | - |
-|4/28/2021	|	TBD	| - | - | - |
+|5/5/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| - | Starting 2 hours earlier | - |
+|4/28/2021	|	Emily Cunningham (Flatiron Institute)	| - | - | - |
 |4/21/2021	|	Yong Zheng (UC Berkeley	| - | - | - |
 |4/14/2021	|	TBD	| - | - | - |
 |4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| - | - | - |
