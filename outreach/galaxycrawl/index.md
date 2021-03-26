@@ -34,7 +34,7 @@ ___
 |4/14/2021	|	TBD	| - | - | - |
 |4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| - | - | - |
 |3/31/2021	|	Shmuel Bialy (CfA Harvard)	| - | - | - |
-|3/24/2021	|	Brant Robertson (UC Santa Cruz)	| The Physical History of the Intergalactic Medium | Starting 2 hours earlier | - |
+|3/24/2021	|	Brant Robertson (UC Santa Cruz)	| The Physical History of the Intergalactic Medium | Starting 2 hours earlier | [zoom recording](https://arizona.zoom.us/rec/share/suTvHrR2_QFVhRu-dRv8jZrCpHdnXaFZbhwnAekmtIm0VOlvwN9jN5zijzWVUHX5.ZnVlJSHOFPEbZ1Tn) |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| Measuring the properties of dark matter with strong lensing of unresolved sources | - | [zoom recording](https://arizona.zoom.us/rec/share/e2Z1kiHfd9AKVErBH2goK9OlZuPyOJtEVd35qF1SWI8M9mVcQfQEcdxqlyKIjTzp.S2x6dfu9_7WEVp6t) |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| Postponed to a later date! | - | - |
 |3/3/2021	|	Sarah Loebman (UC Merced)	| Connecting Across Scales: Star Clusters as Probes of Galactic Environment | - | - |
