@@ -32,7 +32,7 @@ ___
 |4/28/2021	|	Emily Cunningham (Flatiron Institute)	| - | - | - |
 |4/21/2021	|	Yong Zheng (UC Berkeley	| - | - | - |
 |4/14/2021	|	TBD	| - | - | - |
-|4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| - | - | - |
+|4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| Non-adiabatic turbulence generation during gravitational collapse | - | - |
 |3/31/2021	|	Shmuel Bialy (CfA Harvard)	| The FUV interstellar radiation field in galaxy disks | - | - |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| The Physical History of the Intergalactic Medium | Starting 2 hours earlier | [zoom recording](https://arizona.zoom.us/rec/share/suTvHrR2_QFVhRu-dRv8jZrCpHdnXaFZbhwnAekmtIm0VOlvwN9jN5zijzWVUHX5.ZnVlJSHOFPEbZ1Tn) |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| Measuring the properties of dark matter with strong lensing of unresolved sources | - | [zoom recording](https://arizona.zoom.us/rec/share/e2Z1kiHfd9AKVErBH2goK9OlZuPyOJtEVd35qF1SWI8M9mVcQfQEcdxqlyKIjTzp.S2x6dfu9_7WEVp6t) |
