@@ -27,8 +27,8 @@ ___
 | Date | Invited speaker | Affiliation |
 | ---- | --------------- | ----------- |
 |TBD	|	Professor Laura Lopez	|  Lowell Observatory |
-|TBD	|	Professor Bob Benjamin	|  UW Whitewater |
-|TBD	|	Professor Jennifer Marshall	|  Texas A&M |
+|4/8/2021	|	Professor Bob Benjamin	|  UW Whitewater |
+|4/1/2021	|	Professor Jennifer Marshall	|  Texas A&M |
 |3/18/2021	|	Dr. Kathryn Neugent	|  Lowell Observatory |
 |2/8/2021	|	Professor Sebastian Hoenig	| University of Southampton |
 |1/13/2021	|	Professor Kate Daniel	| Bryn Mawr College |
