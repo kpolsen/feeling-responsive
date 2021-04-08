@@ -33,7 +33,7 @@ ___
 |4/21/2021	|	Yong Zheng (UC Berkeley	| - | - | - |
 |4/14/2021	|	TBD	| - | - | - |
 |4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| Non-adiabatic turbulence generation during gravitational collapse | Starting 2 hours earlier | [zoom recording](https://cuaed-unam.zoom.us/rec/share/BrhcCBgZrr6nmB0bT3nZd-VWwof_KKtbQOsd681ZElUTlO5rhEVOQO2ziAzwEgOo.hCSxYkUJFffBmo5u) |
-|3/31/2021	|	Shmuel Bialy (CfA Harvard)	| The FUV interstellar radiation field in galaxy disks | - | - |
+|3/31/2021	|	Shmuel Bialy (CfA Harvard)	| The FUV interstellar radiation field in galaxy disks | - | [zoom recording](https://arizona.zoom.us/rec/share/GkiiNNgUjlyndQL389dimsnmEeJZqE9nxA_zbVmUVdWTvUUrmtBgNoA4l9bgEAHW.kPHNFmfSs9H0FYcy) |
 |3/24/2021	|	Brant Robertson (UC Santa Cruz)	| The Physical History of the Intergalactic Medium | Starting 2 hours earlier | [zoom recording](https://arizona.zoom.us/rec/share/suTvHrR2_QFVhRu-dRv8jZrCpHdnXaFZbhwnAekmtIm0VOlvwN9jN5zijzWVUHX5.ZnVlJSHOFPEbZ1Tn) |
 |3/17/2021	|	Anna Nierenberg (UC Merced)	| Measuring the properties of dark matter with strong lensing of unresolved sources | - | [zoom recording](https://arizona.zoom.us/rec/share/e2Z1kiHfd9AKVErBH2goK9OlZuPyOJtEVd35qF1SWI8M9mVcQfQEcdxqlyKIjTzp.S2x6dfu9_7WEVp6t) |
 |3/10/2021	|	Akaxia Cruz (U Washington)	| Postponed to a later date! | - | - |
