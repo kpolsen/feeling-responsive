@@ -16,6 +16,18 @@ If you want the keynote/powerpoint version of any presentation (given in PDF her
 ___
 
 ## 2021
+
+<br>
+
+<b style="color: #006699">07/01/2021: Invited talk at EAS 2021</b><br>
+I will be giving a talk at the <a href="https://eas.unige.ch/EAS2021/"><font color="#660033">Annual Meeting for the European Astronomical Society </font></a> virtual conference. Rather than my research in astronomy, my talk will form part of the session called "Astronomy for planet Earth: forging a sustainable future", and I will talk about my experience transitioning into green energy research as an astrophysicist. My talk is titled "From stars to Earth: Working on renewable energy research as an astrophysicist".
+
+<br>
+
+<b style="color: #006699">03/05/2021: Steward / NOIRLab Galaxy Group lunch talk </b><br>
+I gave a talk on my research developing and applying SIGAME, focusing on <a href="https://arxiv.org/abs/2102.02868"><font color="#660033"> paper recently uploaded to arXiv</font></a>.
+
+
 <br>
 
 <b style="color: #006699">02/25/2021: Virtual Sazerac CIDER sessions</b><br>
