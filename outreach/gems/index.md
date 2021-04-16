@@ -26,7 +26,7 @@ ___
 
 | Date | Invited speaker | Affiliation |
 | ---- | --------------- | ----------- |
-|TBD	|	Professor Laura Lopez	|  Lowell Observatory |
+|4/22/2021	|	Professor Cora Dvorkin	|  Harvard University |
 |4/8/2021	|	Professor Bob Benjamin	|  UW Whitewater |
 |4/1/2021	|	Professor Jennifer Marshall	|  Texas A&M |
 |3/18/2021	|	Dr. Kathryn Neugent	|  Lowell Observatory |
