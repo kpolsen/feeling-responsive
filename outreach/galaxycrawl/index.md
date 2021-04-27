@@ -29,7 +29,7 @@ ___
 | ---- | ------- | ----- | ----- | ---- |
 |6/2/2021	|	TBD	| - | - | - |
 |5/26/2021	|	TBD	| - | - | - |
-|5/19/2021	|	TBD	| - | - | - |
+|5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | - |
 |5/12/2021	|	Sean Linden (UMass)	| - | - | - |
 |5/5/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| - | Starting 2 hours earlier | - |
 |4/28/2021	|	Emily Cunningham (Flatiron Institute)	| Reading the CARDs: The Imprint of Accretion History on the Milky Way Halo Chemical Plane | - | - |
