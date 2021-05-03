@@ -31,7 +31,7 @@ ___
 |5/26/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| - | Starting 2 hours earlier | - |
 |5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | - |
 |5/12/2021	|	Sean Linden (UMass)	| - | - | - |
-|5/5/2021	|	Raga Pucha (UArizona)	| - | - | - |
+|5/5/2021	|	Raga Pucha (UArizona)	| Escape of Lyα in Lyman-alpha Emitters: Dependence on galaxy properties and Environment | - | - |
 |4/28/2021	|	Emily Cunningham (Flatiron Institute)	| Reading the CARDs: The Imprint of Accretion History on the Milky Way Halo Chemical Plane | - | - |
 |4/21/2021	|	Yong Zheng (UC Berkeley	| Quantifying the Metals in the Circumgalactic Medium of Local Dwarf Galaxies | - | For recording, contact Yong |
 |4/14/2021	|	Skipping!	| - | - | - |
