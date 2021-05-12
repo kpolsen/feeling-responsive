@@ -33,9 +33,10 @@ ___
 |6/2/2021	|	Cameron Hummels (Caltech)	| - | - | - |
 |5/26/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| - | Starting 2 hours earlier | - |
 |5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | - |
-|5/12/2021	|	Sean Linden (UMass)	| A Census of Clusters, Clumps, Dust, and Gas in Extreme Extragalactic Environments | - | - |
+|5/12/2021	|	Sean Linden (UMass)	| A Census of Clusters, Clumps, Dust, and Gas in Extreme Extragalactic Environments | - | [zoom recording](https://arizona.zoom.us/rec/share/4lSPiydTcyu-P0kQrIBOT1hOREXFxggm6GDBrkWnGU-xB5gDssANglAdsKqHYYtz.EuKYvH36ukoSvY4h
+) |
 |5/5/2021	|	Raga Pucha (UArizona)	| Escape of Lyα in Lyman-alpha Emitters: Dependence on galaxy properties and Environment | - | - |
-|4/28/2021	|	Emily Cunningham (Flatiron Institute)	| Reading the CARDs: The Imprint of Accretion History on the Milky Way Halo Chemical Plane | - | - |
+|4/28/2021	|	Emily Cunningham (Flatiron Institute)	| Reading the CARDs: The Imprint of Accretion History on the Milky Way Halo Chemical Plane | - | [zoom recording](https://arizona.zoom.us/rec/share/UV5BOCWeCUXYV9vWwHGD8LHc7TGDR5BbiHe9uNxjrbPOhEhXcXauXBv5aMBIG_G-.df3ktIS5gxklAf8G) |
 |4/21/2021	|	Yong Zheng (UC Berkeley	| Quantifying the Metals in the Circumgalactic Medium of Local Dwarf Galaxies | - | For recording, contact Yong |
 |4/14/2021	|	Skipping!	| - | - | - |
 |4/7/2021	|	Enrique Vazquez Semadeni (IRyA, UNAM)	| Non-adiabatic turbulence generation during gravitational collapse | Starting 2 hours earlier | [zoom recording](https://cuaed-unam.zoom.us/rec/share/BrhcCBgZrr6nmB0bT3nZd-VWwof_KKtbQOsd681ZElUTlO5rhEVOQO2ziAzwEgOo.hCSxYkUJFffBmo5u) |
