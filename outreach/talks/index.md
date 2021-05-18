@@ -24,6 +24,11 @@ I will be giving a talk at the <a href="https://eas.unige.ch/EAS2021/"><font col
 
 <br>
 
+<b style="color: #006699">05/18/2021: Invited plenary talk at LANL-UArizona days</b><br>
+I was invited to give a talk at <a href="https://web.cvent.com/event/def1e6af-670b-4920-a66f-1441511a61ce/websitePage:a150b039-01ce-46b8-90e2-f1c58cc4b968"><font color="#660033">a meeting between Los Alamos National Lab and UArizona </font></a>, focused on mathematical methods in science. I will focus my talk on the part of SIGAME that converts 3D simulation data to 2D maps.
+
+<br>
+
 <b style="color: #006699">03/05/2021: Steward / NOIRLab Galaxy Group lunch talk </b><br>
 I gave a talk on my research developing and applying SIGAME, focusing on <a href="https://arxiv.org/abs/2102.02868"><font color="#660033"> paper recently uploaded to arXiv</font></a>.
 
