@@ -32,7 +32,7 @@ ___
 |6/9/2021	|	TBD	| - | - | - |
 |6/2/2021	|	Cameron Hummels (Caltech)	| - | - | - |
 |5/26/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| - | Starting 2 hours earlier | - |
-|5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | - |
+|5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | [zoom recording](https://arizona.zoom.us/rec/share/kBmr8Y_Fx_aFTurvFZ5SXrI0hViH4zeuZqyMIHPLf17M56sOyfC-aJD-9RKd6hpJ.3Qog0fgqwofBy-hu) |
 |5/12/2021	|	Sean Linden (UMass)	| A Census of Clusters, Clumps, Dust, and Gas in Extreme Extragalactic Environments | - | [zoom recording](https://arizona.zoom.us/rec/share/4lSPiydTcyu-P0kQrIBOT1hOREXFxggm6GDBrkWnGU-xB5gDssANglAdsKqHYYtz.EuKYvH36ukoSvY4h) |
 |5/5/2021	|	Raga Pucha (UArizona)	| Escape of Lyα in Lyman-alpha Emitters: Dependence on galaxy properties and Environment | - | - |
 |4/28/2021	|	Emily Cunningham (Flatiron Institute)	| Reading the CARDs: The Imprint of Accretion History on the Milky Way Halo Chemical Plane | - | [zoom recording](https://arizona.zoom.us/rec/share/UV5BOCWeCUXYV9vWwHGD8LHc7TGDR5BbiHe9uNxjrbPOhEhXcXauXBv5aMBIG_G-.df3ktIS5gxklAf8G) |
