@@ -9,6 +9,9 @@ header:
 permalink: "/outreach/galaxycrawl/"
 ---
 
+## OBS: Galaxy Crawl will be taking an indefinite break after June 2nd 2021! 
+### BUT if you are interested in meeting and presenting your work to the theory group at UArizona, please contact me and we can most likely set something up.
+
 This is a weekly, virtual talk series held in an informal format and centered on the topic of galaxy evolution theory.
 
 The main purpose is to give students and postdocs in our group here at University of Arizona exposure to other institutes now that conferences are cancelled or going online due to the pandemic. But we also have a wide audience from other institutions calling in. 
@@ -27,9 +30,6 @@ ___
 
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
-|6/23/2021	|	TBD	| - | - | - |
-|6/16/2021	|	TBD	| - | - | - |
-|6/9/2021	|	TBD	| - | - | - |
 |6/2/2021	|	Cameron Hummels (Caltech)	| - | - | - |
 |5/26/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| Clues to the origin of ultra-diffuse galaxies from their globular clusters: a need to revise the galaxy formation paradigm? | Starting 2 hours earlier | - |
 |5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | [zoom recording](https://arizona.zoom.us/rec/share/kBmr8Y_Fx_aFTurvFZ5SXrI0hViH4zeuZqyMIHPLf17M56sOyfC-aJD-9RKd6hpJ.3Qog0fgqwofBy-hu) |
