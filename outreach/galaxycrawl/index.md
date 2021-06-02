@@ -30,7 +30,7 @@ ___
 
 | Date | Speaker | Title | Notes | Link |
 | ---- | ------- | ----- | ----- | ---- |
-|6/2/2021	|	Cameron Hummels (Caltech)	| Why do Simulations Suck at Modeling the Circumgalactic Medium? | - | - |
+|6/2/2021	|	Cameron Hummels (Caltech)	| Why do Simulations Suck at Modeling the Circumgalactic Medium? | - | [zoom recording](https://arizona.zoom.us/rec/share/QJdIGMd9Gvq1b1V9t_dMeb4GS1PxQDiqbSVobIlidokGRxIbGxXszv2s1vAaovBE.2AsVREp-4vOTpjMP) |
 |5/26/2021	|	Sebastian Trujillo-Gomez (Heidelberg)	| Clues to the origin of ultra-diffuse galaxies from their globular clusters: a need to revise the galaxy formation paradigm? | Starting 2 hours earlier | - |
 |5/19/2021	|	Anna Ogorzalek (NASA GSFC/UMD)	| Uncovering the physics behind AGN feedback with high resolution X-ray spectroscopy | - | [zoom recording](https://arizona.zoom.us/rec/share/kBmr8Y_Fx_aFTurvFZ5SXrI0hViH4zeuZqyMIHPLf17M56sOyfC-aJD-9RKd6hpJ.3Qog0fgqwofBy-hu) |
 |5/12/2021	|	Sean Linden (UMass)	| A Census of Clusters, Clumps, Dust, and Gas in Extreme Extragalactic Environments | - | [zoom recording](https://arizona.zoom.us/rec/share/4lSPiydTcyu-P0kQrIBOT1hOREXFxggm6GDBrkWnGU-xB5gDssANglAdsKqHYYtz.EuKYvH36ukoSvY4h) |
