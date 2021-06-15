@@ -44,7 +44,7 @@ galaxy studies.
 I have led three first-author publications on SÍGAME and enjoyed working with team members from around the world, 
 and the software tool is now available for download via GitHub. Below is a link to learn more about SÍGAME, followed by descriptions of my main research projects. See the [Contact](http://kpolsen.github.io/Contact/) tab for my contact info in case you have any questions about SÍGAME and its use.
 
-<a class="radius button small" href="{{ site.url }}/SIGAME_v2/index.html">Learn more about and download SÍGAME here›</a>
+<a class="radius button small" href="{{ site.url }}/SIGAME/index.html">Learn more about and download SÍGAME here›</a>
 
 <h2 style="color: #006699">ISM in the Early Universe</h2>
 During my time as post-doctoral researcher at the [School of Earth and Space Exploration](https://sese.asu.edu/) (SESE)
